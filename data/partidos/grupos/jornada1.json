@@ -1,0 +1,24 @@
+[
+  {
+    "idPartido": 1,
+    "equipoLocalId": "mex",
+    "equipoVisitanteId": "rsa",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "idFase": "grupo",
+    "fecha": "11/06/2026",
+    "hora": "21:00",
+    "idEstadio": 1
+  },
+  {
+    "idPartido": 2,
+    "equipoLocalId": "kor",
+    "equipoVisitanteId": "kor",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "idFase": "grupo",
+    "fecha": "12/06/2026",
+    "hora": "4:00",
+    "idEstadio": 1
+  }
+]
