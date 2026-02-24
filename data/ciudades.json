@@ -1,0 +1,72 @@
+[
+  {
+    "idCiudad": "tor",
+    "nombre": "Toronto",
+    "idPais": "can"
+  },
+  {
+    "idCiudad": "van",
+    "nombre": "Vancouver",
+    "idPais": "can"
+  },
+  {
+    "idCiudad": "mex",
+    "nombre": "Ciudad de México",
+    "idPais": "mex"
+  },
+  {
+    "idCiudad": "zap",
+    "nombre": "Zapopan",
+    "idPais": "mex"
+  },
+  {
+    "idCiudad": "gua",
+    "nombre": "Guadalupe",
+    "idPais": "mex"
+  },
+  {
+    "idCiudad": "fox",
+    "nombre": "Foxborough",
+    "idPais": "usa"
+  },
+  {
+    "idCiudad": "arl",
+    "nombre": "Arlington",
+    "idPais": "usa"
+  },
+  {
+    "idCiudad": "hou",
+    "nombre": "Houston",
+    "idPais": "usa"
+  },
+  {
+    "idCiudad": "kc",
+    "nombre": "Kansas City",
+    "idPais": "usa"
+  },
+  {
+    "idCiudad": "ing",
+    "nombre": "Inglewood",
+    "idPais": "usa"
+  },
+  {
+    "idCiudad": "rut",
+    "nombre": "East Rutherford",
+    "idPais": "usa"
+  },
+  {
+    "idCiudad": "phi",
+    "nombre": "Philadelphia",
+    "idPais": "usa"
+  },
+  {
+    "idCiudad": "scl",
+    "nombre": "Santa Clara",
+    "idPais": "usa"
+  },
+  {
+    "idCiudad": "sea",
+    "nombre": "Seattle",
+    "idPais": "usa"
+  }
+]
