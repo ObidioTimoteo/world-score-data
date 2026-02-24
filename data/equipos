@@ -18,7 +18,7 @@
     "grupo": "A"
   },
   {
-    "idEquipo": 2,
+    "idEquipo": "pdA",
     "nombre": "Por determinar A",
     "banderaUrl": "https://raw.githubusercontent.com/ObidioTimoteo/world-score-data/main/assets/flags/esp.png",
     "grupo": "A"
@@ -30,7 +30,7 @@
     "grupo": "B"
   },
   {
-    "idEquipo": 2,
+    "idEquipo": "pdB",
     "nombre": "Por determinar B",
     "banderaUrl": "https://raw.githubusercontent.com/ObidioTimoteo/world-score-data/main/assets/flags/esp.png",
     "grupo": "B"
@@ -90,7 +90,7 @@
     "grupo": "D"
   },
   {
-    "idEquipo": ,
+    "idEquipo": "pdD",
     "nombre": "Por determinar D",
     "banderaUrl": "https://raw.githubusercontent.com/ObidioTimoteo/world-score-data/main/assets/flags/esp.png",
     "grupo": "D"
@@ -132,7 +132,7 @@
     "grupo": "F"
   },
   {
-    "idEquipo": 2,
+    "idEquipo": "pdF",
     "nombre": "Por determinar F",
     "banderaUrl": "https://raw.githubusercontent.com/ObidioTimoteo/world-score-data/main/assets/flags/esp.png",
     "grupo": "F"
@@ -204,7 +204,7 @@
     "grupo": "I"
   },
   {
-    "idEquipo": 2,
+    "idEquipo": "pdI",
     "nombre": "Por determinar I",
     "banderaUrl": "https://raw.githubusercontent.com/ObidioTimoteo/world-score-data/main/assets/flags/esp.png",
     "grupo": "I"
@@ -246,7 +246,7 @@
     "grupo": "K"
   },
   {
-    "idEquipo": 2,
+    "idEquipo": "pdK",
     "nombre": "Por determinar K",
     "banderaUrl": "https://raw.githubusercontent.com/ObidioTimoteo/world-score-data/main/assets/flags/esp.png",
     "grupo": "K"
