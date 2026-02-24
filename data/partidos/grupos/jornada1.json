@@ -6,9 +6,10 @@
     "golesLocal": 2,
     "golesVisitante": 1,
     "idFase": "grupo",
+    "jornada": 1
     "fecha": "11/06/2026",
     "hora": "21:00",
-    "idEstadio": 1
+    "idCiudad": 1
   },
   {
     "idPartido": 2,
@@ -17,6 +18,271 @@
     "golesLocal": 2,
     "golesVisitante": 1,
     "idFase": "grupo",
+    "jornada": 1
+    "fecha": "12/06/2026",
+    "hora": "4:00",
+    "idEstadio": 1
+  },
+  {
+    "idPartido": 3,
+    "equipoLocalId": "kor",
+    "equipoVisitanteId": "kor",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "idFase": "grupo",
+    "jornada": 1
+    "fecha": "12/06/2026",
+    "hora": "4:00",
+    "idEstadio": 1
+  },
+  {
+    "idPartido": 4,
+    "equipoLocalId": "kor",
+    "equipoVisitanteId": "kor",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "idFase": "grupo",
+    "jornada": 1
+    "fecha": "12/06/2026",
+    "hora": "4:00",
+    "idEstadio": 1
+  },
+  {
+    "idPartido": 5,
+    "equipoLocalId": "kor",
+    "equipoVisitanteId": "kor",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "idFase": "grupo",
+    "jornada": 1
+    "fecha": "12/06/2026",
+    "hora": "4:00",
+    "idEstadio": 1
+  },
+  {
+    "idPartido": 6,
+    "equipoLocalId": "kor",
+    "equipoVisitanteId": "kor",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "idFase": "grupo",
+    "jornada": 1
+    "fecha": "12/06/2026",
+    "hora": "4:00",
+    "idEstadio": 1
+  },
+  {
+    "idPartido": 7,
+    "equipoLocalId": "kor",
+    "equipoVisitanteId": "kor",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "idFase": "grupo",
+    "jornada": 1
+    "fecha": "12/06/2026",
+    "hora": "4:00",
+    "idEstadio": 1
+  },
+  {
+    "idPartido": 8,
+    "equipoLocalId": "kor",
+    "equipoVisitanteId": "kor",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "idFase": "grupo",
+    "jornada": 1
+    "fecha": "12/06/2026",
+    "hora": "4:00",
+    "idEstadio": 1
+  },
+  {
+    "idPartido": 9,
+    "equipoLocalId": "kor",
+    "equipoVisitanteId": "kor",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "idFase": "grupo",
+    "jornada": 1
+    "fecha": "12/06/2026",
+    "hora": "4:00",
+    "idEstadio": 1
+  },
+  {
+    "idPartido": 10,
+    "equipoLocalId": "kor",
+    "equipoVisitanteId": "kor",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "idFase": "grupo",
+    "jornada": 1
+    "fecha": "12/06/2026",
+    "hora": "4:00",
+    "idEstadio": 1
+  },
+  {
+    "idPartido": 11,
+    "equipoLocalId": "kor",
+    "equipoVisitanteId": "kor",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "idFase": "grupo",
+    "jornada": 1
+    "fecha": "12/06/2026",
+    "hora": "4:00",
+    "idEstadio": 1
+  },
+  {
+    "idPartido": 12,
+    "equipoLocalId": "kor",
+    "equipoVisitanteId": "kor",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "idFase": "grupo",
+    "jornada": 1
+    "fecha": "12/06/2026",
+    "hora": "4:00",
+    "idEstadio": 1
+  },
+  {
+    "idPartido": 13,
+    "equipoLocalId": "kor",
+    "equipoVisitanteId": "kor",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "idFase": "grupo",
+    "jornada": 1
+    "fecha": "12/06/2026",
+    "hora": "4:00",
+    "idEstadio": 1
+  },
+  {
+    "idPartido": 14,
+    "equipoLocalId": "kor",
+    "equipoVisitanteId": "kor",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "idFase": "grupo",
+    "jornada": 1
+    "fecha": "12/06/2026",
+    "hora": "4:00",
+    "idEstadio": 1
+  },
+  {
+    "idPartido": 15,
+    "equipoLocalId": "kor",
+    "equipoVisitanteId": "kor",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "idFase": "grupo",
+    "jornada": 1
+    "fecha": "12/06/2026",
+    "hora": "4:00",
+    "idEstadio": 1
+  },
+  {
+    "idPartido": 16,
+    "equipoLocalId": "kor",
+    "equipoVisitanteId": "kor",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "idFase": "grupo",
+    "jornada": 1
+    "fecha": "12/06/2026",
+    "hora": "4:00",
+    "idEstadio": 1
+  },
+  {
+    "idPartido": 17,
+    "equipoLocalId": "kor",
+    "equipoVisitanteId": "kor",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "idFase": "grupo",
+    "jornada": 1
+    "fecha": "12/06/2026",
+    "hora": "4:00",
+    "idEstadio": 1
+  },
+  {
+    "idPartido": 18,
+    "equipoLocalId": "kor",
+    "equipoVisitanteId": "kor",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "idFase": "grupo",
+    "jornada": 1
+    "fecha": "12/06/2026",
+    "hora": "4:00",
+    "idEstadio": 1
+  },
+  {
+    "idPartido": 19,
+    "equipoLocalId": "kor",
+    "equipoVisitanteId": "kor",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "idFase": "grupo",
+    "jornada": 1
+    "fecha": "12/06/2026",
+    "hora": "4:00",
+    "idEstadio": 1
+  },
+  {
+    "idPartido": 20,
+    "equipoLocalId": "kor",
+    "equipoVisitanteId": "kor",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "idFase": "grupo",
+    "jornada": 1
+    "fecha": "12/06/2026",
+    "hora": "4:00",
+    "idEstadio": 1
+  },
+  {
+    "idPartido": 21,
+    "equipoLocalId": "kor",
+    "equipoVisitanteId": "kor",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "idFase": "grupo",
+    "jornada": 1
+    "fecha": "12/06/2026",
+    "hora": "4:00",
+    "idEstadio": 1
+  },
+  {
+    "idPartido": 22,
+    "equipoLocalId": "kor",
+    "equipoVisitanteId": "kor",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "idFase": "grupo",
+    "jornada": 1
+    "fecha": "12/06/2026",
+    "hora": "4:00",
+    "idEstadio": 1
+  },
+  {
+    "idPartido": 23,
+    "equipoLocalId": "kor",
+    "equipoVisitanteId": "kor",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "idFase": "grupo",
+    "jornada": 1
+    "fecha": "12/06/2026",
+    "hora": "4:00",
+    "idEstadio": 1
+  },
+  {
+    "idPartido": 24,
+    "equipoLocalId": "kor",
+    "equipoVisitanteId": "kor",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "idFase": "grupo",
+    "jornada": 1
     "fecha": "12/06/2026",
     "hora": "4:00",
     "idEstadio": 1
