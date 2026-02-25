@@ -9,7 +9,7 @@
     "jornada": 1
     "fecha": "11/06/2026",
     "hora": "21:00",
-    "idCiudad": 1
+    "idSede": "mex"
   },
   {
     "idPartido": 2,
@@ -21,7 +21,7 @@
     "jornada": 1
     "fecha": "12/06/2026",
     "hora": "04:00",
-    "idEstadio": 1
+    "idSede": "zap"
   },
   {
     "idPartido": 3,
@@ -33,7 +33,7 @@
     "jornada": 1
     "fecha": "12/06/2026",
     "hora": "21:00",
-    "idEstadio": 1
+    "idSede": "tor"
   },
   {
     "idPartido": 4,
@@ -45,7 +45,7 @@
     "jornada": 1
     "fecha": "13/06/2026",
     "hora": "21:00",
-    "idEstadio": 1
+    "idSede": "scl"
   },
   {
     "idPartido": 5,
@@ -57,7 +57,7 @@
     "jornada": 1
     "fecha": "14/06/2026",
     "hora": "00:00",
-    "idEstadio": 1
+    "idSede": "rut"
   },
   {
     "idPartido": 6,
@@ -69,7 +69,7 @@
     "jornada": 1
     "fecha": "14/06/2026",
     "hora": "03:00",
-    "idEstadio": 1
+    "idSede": "fox"
   },
   {
     "idPartido": 7,
@@ -81,7 +81,7 @@
     "jornada": 1
     "fecha": "13/06/2026",
     "hora": "03:00",
-    "idEstadio": 1
+    "idSede": "ing"
   },
   {
     "idPartido": 8,
@@ -93,7 +93,7 @@
     "jornada": 1
     "fecha": "14/06/2026",
     "hora": "06:00",
-    "idEstadio": 1
+    "idSede": "van"
   },
   {
     "idPartido": 9,
@@ -105,7 +105,7 @@
     "jornada": 1
     "fecha": "14/06/2026",
     "hora": "19:00",
-    "idEstadio": 1
+    "idSede": "hou"
   },
   {
     "idPartido": 10,
@@ -117,7 +117,7 @@
     "jornada": 1
     "fecha": "15/06/2026",
     "hora": "01:00",
-    "idEstadio": 1
+    "idSede": "phi"
   },
   {
     "idPartido": 11,
@@ -129,7 +129,7 @@
     "jornada": 1
     "fecha": "14/06/2026",
     "hora": "22:00",
-    "idEstadio": 1
+    "idSede": "arl"
   },
   {
     "idPartido": 12,
@@ -141,7 +141,7 @@
     "jornada": 1
     "fecha": "15/06/2026",
     "hora": "04:00",
-    "idEstadio": 1
+    "idSede": "gua"
   },
   {
     "idPartido": 13,
@@ -153,7 +153,7 @@
     "jornada": 1
     "fecha": "15/06/2026",
     "hora": "21:00",
-    "idEstadio": 1
+    "idSede": "sea"
   },
   {
     "idPartido": 14,
@@ -165,7 +165,7 @@
     "jornada": 1
     "fecha": "16/06/2026",
     "hora": "03:00",
-    "idEstadio": 1
+    "idSede": "ing"
   },
   {
     "idPartido": 15,
@@ -177,7 +177,7 @@
     "jornada": 1
     "fecha": "15/06/2026",
     "hora": "18:00",
-    "idEstadio": 1
+    "idSede": "atl"
   },
   {
     "idPartido": 16,
@@ -189,7 +189,7 @@
     "jornada": 1
     "fecha": "16/06/2026",
     "hora": "00:00",
-    "idEstadio": 1
+    "idSede": "mia"
   },
   {
     "idPartido": 17,
@@ -201,7 +201,7 @@
     "jornada": 1
     "fecha": "16/06/2026",
     "hora": "21:00",
-    "idEstadio": 1
+    "idSede": "rut"
   },
   {
     "idPartido": 18,
@@ -213,7 +213,7 @@
     "jornada": 1
     "fecha": "17/06/2026",
     "hora": "00:00",
-    "idEstadio": 1
+    "idSede": "fox"
   },
   {
     "idPartido": 19,
@@ -225,7 +225,7 @@
     "jornada": 1
     "fecha": "17/06/2026",
     "hora": "03:00",
-    "idEstadio": 1
+    "idSede": "kc"
   },
   {
     "idPartido": 20,
@@ -237,7 +237,7 @@
     "jornada": 1
     "fecha": "17/06/2026",
     "hora": "06:00",
-    "idEstadio": 1
+    "idSede": "scl"
   },
   {
     "idPartido": 21,
@@ -249,7 +249,7 @@
     "jornada": 1
     "fecha": "17/06/2026",
     "hora": "19:00",
-    "idEstadio": 1
+    "idSede": "hou"
   },
   {
     "idPartido": 22,
@@ -261,7 +261,7 @@
     "jornada": 1
     "fecha": "18/06/2026",
     "hora": "04:00",
-    "idEstadio": 1
+    "idSede": "mex"
   },
   {
     "idPartido": 23,
@@ -273,7 +273,7 @@
     "jornada": 1
     "fecha": "17/06/2026",
     "hora": "22:00",
-    "idEstadio": 1
+    "idSede": "arl"
   },
   {
     "idPartido": 24,
@@ -285,6 +285,6 @@
     "jornada": 1
     "fecha": "18/06/2026",
     "hora": "01:00",
-    "idEstadio": 1
+    "idSede": "tor"
   }
 ]
