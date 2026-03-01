@@ -6,7 +6,7 @@
     "golesLocal": 2,
     "golesVisitante": 1,
     "idFase": "grupo",
-    "jornada": 1
+    "jornada": 1,
     "fecha": "2026-06-11",
     "hora": "21:00",
     "idSede": "mex"
@@ -18,7 +18,7 @@
     "golesLocal": 2,
     "golesVisitante": 1,
     "idFase": "grupo",
-    "jornada": 1
+    "jornada": 1,
     "fecha": "2026-06-12",
     "hora": "04:00",
     "idSede": "zap"
@@ -30,7 +30,7 @@
     "golesLocal": 2,
     "golesVisitante": 1,
     "idFase": "grupo",
-    "jornada": 1
+    "jornada": 1,
     "fecha": "2026-06-12",
     "hora": "21:00",
     "idSede": "tor"
@@ -42,7 +42,7 @@
     "golesLocal": 2,
     "golesVisitante": 1,
     "idFase": "grupo",
-    "jornada": 1
+    "jornada": 1,
     "fecha": "2026-06-13",
     "hora": "21:00",
     "idSede": "scl"
@@ -54,7 +54,7 @@
     "golesLocal": 2,
     "golesVisitante": 1,
     "idFase": "grupo",
-    "jornada": 1
+    "jornada": 1,
     "fecha": "2026-06-14",
     "hora": "00:00",
     "idSede": "rut"
@@ -66,7 +66,7 @@
     "golesLocal": 2,
     "golesVisitante": 1,
     "idFase": "grupo",
-    "jornada": 1
+    "jornada": 1,
     "fecha": "2026-06-14",
     "hora": "03:00",
     "idSede": "fox"
@@ -78,7 +78,7 @@
     "golesLocal": 2,
     "golesVisitante": 1,
     "idFase": "grupo",
-    "jornada": 1
+    "jornada": 1,
     "fecha": "2026-06-13",
     "hora": "03:00",
     "idSede": "ing"
@@ -90,7 +90,7 @@
     "golesLocal": 2,
     "golesVisitante": 1,
     "idFase": "grupo",
-    "jornada": 1
+    "jornada": 1,
     "fecha": "2026-06-14",
     "hora": "06:00",
     "idSede": "van"
@@ -102,7 +102,7 @@
     "golesLocal": 2,
     "golesVisitante": 1,
     "idFase": "grupo",
-    "jornada": 1
+    "jornada": 1,
     "fecha": "2026-06-14",
     "hora": "19:00",
     "idSede": "hou"
@@ -114,7 +114,7 @@
     "golesLocal": 2,
     "golesVisitante": 1,
     "idFase": "grupo",
-    "jornada": 1
+    "jornada": 1,
     "fecha": "2026-06-15",
     "hora": "01:00",
     "idSede": "phi"
@@ -126,7 +126,7 @@
     "golesLocal": 2,
     "golesVisitante": 1,
     "idFase": "grupo",
-    "jornada": 1
+    "jornada": 1,
     "fecha": "2026-06-14",
     "hora": "22:00",
     "idSede": "arl"
@@ -138,7 +138,7 @@
     "golesLocal": 2,
     "golesVisitante": 1,
     "idFase": "grupo",
-    "jornada": 1
+    "jornada": 1,
     "fecha": "2026-06-15",
     "hora": "04:00",
     "idSede": "gua"
@@ -150,7 +150,7 @@
     "golesLocal": 2,
     "golesVisitante": 1,
     "idFase": "grupo",
-    "jornada": 1
+    "jornada": 1,
     "fecha": "2026-06-15",
     "hora": "21:00",
     "idSede": "sea"
@@ -162,7 +162,7 @@
     "golesLocal": 2,
     "golesVisitante": 1,
     "idFase": "grupo",
-    "jornada": 1
+    "jornada": 1,
     "fecha": "2026-06-16",
     "hora": "03:00",
     "idSede": "ing"
@@ -174,7 +174,7 @@
     "golesLocal": 2,
     "golesVisitante": 1,
     "idFase": "grupo",
-    "jornada": 1
+    "jornada": 1,
     "fecha": "2026-06-15",
     "hora": "18:00",
     "idSede": "atl"
@@ -186,7 +186,7 @@
     "golesLocal": 2,
     "golesVisitante": 1,
     "idFase": "grupo",
-    "jornada": 1
+    "jornada": 1,
     "fecha": "2026-06-16",
     "hora": "00:00",
     "idSede": "mia"
@@ -198,7 +198,7 @@
     "golesLocal": 2,
     "golesVisitante": 1,
     "idFase": "grupo",
-    "jornada": 1
+    "jornada": 1,
     "fecha": "2026-06-16",
     "hora": "21:00",
     "idSede": "rut"
@@ -210,7 +210,7 @@
     "golesLocal": 2,
     "golesVisitante": 1,
     "idFase": "grupo",
-    "jornada": 1
+    "jornada": 1,
     "fecha": "2026-06-17",
     "hora": "00:00",
     "idSede": "fox"
@@ -222,7 +222,7 @@
     "golesLocal": 2,
     "golesVisitante": 1,
     "idFase": "grupo",
-    "jornada": 1
+    "jornada": 1,
     "fecha": "2026-06-17",
     "hora": "03:00",
     "idSede": "kc"
@@ -234,7 +234,7 @@
     "golesLocal": 2,
     "golesVisitante": 1,
     "idFase": "grupo",
-    "jornada": 1
+    "jornada": 1,
     "fecha": "2026-06-17",
     "hora": "06:00",
     "idSede": "scl"
@@ -246,7 +246,7 @@
     "golesLocal": 2,
     "golesVisitante": 1,
     "idFase": "grupo",
-    "jornada": 1
+    "jornada": 1,
     "fecha": "2026-06-17",
     "hora": "19:00",
     "idSede": "hou"
@@ -258,7 +258,7 @@
     "golesLocal": 2,
     "golesVisitante": 1,
     "idFase": "grupo",
-    "jornada": 1
+    "jornada": 1,
     "fecha": "2026-06-18",
     "hora": "04:00",
     "idSede": "mex"
@@ -270,7 +270,7 @@
     "golesLocal": 2,
     "golesVisitante": 1,
     "idFase": "grupo",
-    "jornada": 1
+    "jornada": 1,
     "fecha": "2026-06-17",
     "hora": "22:00",
     "idSede": "arl"
@@ -282,7 +282,7 @@
     "golesLocal": 2,
     "golesVisitante": 1,
     "idFase": "grupo",
-    "jornada": 1
+    "jornada": 1,
     "fecha": "2026-06-18",
     "hora": "01:00",
     "idSede": "tor"
