@@ -839,7 +839,7 @@
     "idSede": "atl"
   },
   {
-    "idPartido": 47,
+    "idPartido": 71,
     "idEquipoLocal": "pan",
     "idEquipoVisitante": "eng",
     "golesLocal": 2,
@@ -851,7 +851,7 @@
     "idSede": "ny"
   },
   {
-    "idPartido": 48,
+    "idPartido": 72,
     "idEquipoLocal": "cro",
     "idEquipoVisitante": "gha",
     "golesLocal": 2,
