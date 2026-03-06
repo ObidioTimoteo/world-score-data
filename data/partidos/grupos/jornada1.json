@@ -21,7 +21,7 @@
     "jornada": 1,
     "fecha": "2026-06-12",
     "hora": "04:00",
-    "idSede": "zap"
+    "idSede": "gua"
   },
   {
     "idPartido": 3,
@@ -45,7 +45,7 @@
     "jornada": 1,
     "fecha": "2026-06-13",
     "hora": "21:00",
-    "idSede": "scl"
+    "idSede": "sf"
   },
   {
     "idPartido": 5,
@@ -57,7 +57,7 @@
     "jornada": 1,
     "fecha": "2026-06-14",
     "hora": "00:00",
-    "idSede": "rut"
+    "idSede": "ny"
   },
   {
     "idPartido": 6,
@@ -69,7 +69,7 @@
     "jornada": 1,
     "fecha": "2026-06-14",
     "hora": "03:00",
-    "idSede": "fox"
+    "idSede": "bos"
   },
   {
     "idPartido": 7,
@@ -81,7 +81,7 @@
     "jornada": 1,
     "fecha": "2026-06-13",
     "hora": "03:00",
-    "idSede": "ing"
+    "idSede": "la"
   },
   {
     "idPartido": 8,
@@ -129,7 +129,7 @@
     "jornada": 1,
     "fecha": "2026-06-14",
     "hora": "22:00",
-    "idSede": "arl"
+    "idSede": "dal"
   },
   {
     "idPartido": 12,
@@ -141,7 +141,7 @@
     "jornada": 1,
     "fecha": "2026-06-15",
     "hora": "04:00",
-    "idSede": "gua"
+    "idSede": "mon"
   },
   {
     "idPartido": 13,
@@ -165,7 +165,7 @@
     "jornada": 1,
     "fecha": "2026-06-16",
     "hora": "03:00",
-    "idSede": "ing"
+    "idSede": "la"
   },
   {
     "idPartido": 15,
@@ -201,7 +201,7 @@
     "jornada": 1,
     "fecha": "2026-06-16",
     "hora": "21:00",
-    "idSede": "rut"
+    "idSede": "ny"
   },
   {
     "idPartido": 18,
@@ -213,7 +213,7 @@
     "jornada": 1,
     "fecha": "2026-06-17",
     "hora": "00:00",
-    "idSede": "fox"
+    "idSede": "bos"
   },
   {
     "idPartido": 19,
@@ -237,7 +237,7 @@
     "jornada": 1,
     "fecha": "2026-06-17",
     "hora": "06:00",
-    "idSede": "scl"
+    "idSede": "sf"
   },
   {
     "idPartido": 21,
@@ -273,7 +273,7 @@
     "jornada": 1,
     "fecha": "2026-06-17",
     "hora": "22:00",
-    "idSede": "arl"
+    "idSede": "dal"
   },
   {
     "idPartido": 24,
@@ -332,7 +332,7 @@
     "jornada": 2,
     "fecha": "2026-06-18",
     "hora": "18:00",
-    "idSede": "ing"
+    "idSede": "la"
   },
   {
     "idPartido": 29,
@@ -356,7 +356,7 @@
     "jornada": 2,
     "fecha": "2026-06-20",
     "hora": "00:00",
-    "idSede": "fox"
+    "idSede": "bos"
   },
   {
     "idPartido": 31,
@@ -368,7 +368,7 @@
     "jornada": 2,
     "fecha": "2026-06-19",
     "hora": "00:00",
-    "idSede": "ing"
+    "idSede": "sea"
   },
   {
     "idPartido": 32,
@@ -380,7 +380,7 @@
     "jornada": 2,
     "fecha": "2026-06-20",
     "hora": "06:00",
-    "idSede": "van"
+    "idSede": "sf"
   },
   {
     "idPartido": 33,
@@ -392,7 +392,7 @@
     "jornada": 2,
     "fecha": "2026-06-20",
     "hora": "22:00",
-    "idSede": "hou"
+    "idSede": "tor"
   },
   {
     "idPartido": 34,
@@ -404,7 +404,7 @@
     "jornada": 2,
     "fecha": "2026-06-21",
     "hora": "02:00",
-    "idSede": "phi"
+    "idSede": "kc"
   },
   {
     "idPartido": 35,
@@ -416,7 +416,7 @@
     "jornada": 2,
     "fecha": "2026-06-20",
     "hora": "19:00",
-    "idSede": "arl"
+    "idSede": "hou"
   },
   {
     "idPartido": 36,
@@ -428,7 +428,7 @@
     "jornada": 2,
     "fecha": "2026-06-21",
     "hora": "06:00",
-    "idSede": "gua"
+    "idSede": "mon"
   },
   {
     "idPartido": 37,
@@ -440,7 +440,7 @@
     "jornada": 2,
     "fecha": "2026-06-21",
     "hora": "21:00",
-    "idSede": "sea"
+    "idSede": "la"
   },
   {
     "idPartido": 38,
@@ -452,7 +452,7 @@
     "jornada": 2,
     "fecha": "2026-06-22",
     "hora": "03:00",
-    "idSede": "ing"
+    "idSede": "van"
   },
   {
     "idPartido": 39,
@@ -488,7 +488,7 @@
     "jornada": 2,
     "fecha": "2026-06-22",
     "hora": "23:00",
-    "idSede": "rut"
+    "idSede": "phi"
   },
   {
     "idPartido": 42,
@@ -500,7 +500,7 @@
     "jornada": 2,
     "fecha": "2026-06-23",
     "hora": "02:00",
-    "idSede": "fox"
+    "idSede": "ny"
   },
   {
     "idPartido": 43,
@@ -512,7 +512,7 @@
     "jornada": 2,
     "fecha": "2026-06-22",
     "hora": "19:00",
-    "idSede": "kc"
+    "idSede": "dal"
   },
   {
     "idPartido": 44,
@@ -524,7 +524,7 @@
     "jornada": 2,
     "fecha": "2026-06-23",
     "hora": "05:00",
-    "idSede": "scl"
+    "idSede": "sf"
   },
   {
     "idPartido": 45,
@@ -548,7 +548,7 @@
     "jornada": 2,
     "fecha": "2026-06-24",
     "hora": "04:00",
-    "idSede": "mex"
+    "idSede": "gua"
   },
   {
     "idPartido": 47,
@@ -560,7 +560,7 @@
     "jornada": 2,
     "fecha": "2026-06-23",
     "hora": "22:00",
-    "idSede": "arl"
+    "idSede": "bos"
   },
   {
     "idPartido": 48,
@@ -584,7 +584,7 @@
     "jornada": 3,
     "fecha": "2026-06-25",
     "hora": "03:00",
-    "idSede": "mex"
+    "idSede": "mon"
   },
   {
     "idPartido": 50,
@@ -596,7 +596,7 @@
     "jornada": 3,
     "fecha": "2026-06-25",
     "hora": "03:00",
-    "idSede": "zap"
+    "idSede": "mex"
   },
   {
     "idPartido": 51,
@@ -608,7 +608,7 @@
     "jornada": 3,
     "fecha": "2026-06-24",
     "hora": "21:00",
-    "idSede": "tor"
+    "idSede": "van"
   },
   {
     "idPartido": 52,
@@ -620,7 +620,7 @@
     "jornada": 3,
     "fecha": "2026-06-24",
     "hora": "21:00",
-    "idSede": "scl"
+    "idSede": "sea"
   },
   {
     "idPartido": 53,
@@ -632,7 +632,7 @@
     "jornada": 3,
     "fecha": "2026-06-25",
     "hora": "00:00",
-    "idSede": "rut"
+    "idSede": "mia"
   },
   {
     "idPartido": 54,
@@ -644,7 +644,7 @@
     "jornada": 3,
     "fecha": "2026-06-25",
     "hora": "00:00",
-    "idSede": "fox"
+    "idSede": "atl"
   },
   {
     "idPartido": 55,
@@ -656,7 +656,7 @@
     "jornada": 3,
     "fecha": "2026-06-26",
     "hora": "04:00",
-    "idSede": "ing"
+    "idSede": "la"
   },
   {
     "idPartido": 56,
@@ -668,7 +668,7 @@
     "jornada": 3,
     "fecha": "2026-06-26",
     "hora": "04:00",
-    "idSede": "van"
+    "idSede": "sf"
   },
   {
     "idPartido": 57,
@@ -680,7 +680,7 @@
     "jornada": 3,
     "fecha": "2026-06-25",
     "hora": "22:00",
-    "idSede": "hou"
+    "idSede": "ny"
   },
   {
     "idPartido": 58,
@@ -704,7 +704,7 @@
     "jornada": 3,
     "fecha": "2026-06-26",
     "hora": "01:00",
-    "idSede": "arl"
+    "idSede": "kc"
   },
   {
     "idPartido": 60,
@@ -716,7 +716,7 @@
     "jornada": 3,
     "fecha": "2026-06-26",
     "hora": "01:00",
-    "idSede": "gua"
+    "idSede": "dal"
   },
   {
     "idPartido": 61,
@@ -728,7 +728,7 @@
     "jornada": 3,
     "fecha": "2026-06-27",
     "hora": "05:00",
-    "idSede": "sea"
+    "idSede": "van"
   },
   {
     "idPartido": 62,
@@ -740,7 +740,7 @@
     "jornada": 3,
     "fecha": "2026-06-27",
     "hora": "05:00",
-    "idSede": "ing"
+    "idSede": "sea"
   },
   {
     "idPartido": 63,
@@ -752,7 +752,7 @@
     "jornada": 3,
     "fecha": "2026-06-27",
     "hora": "02:00",
-    "idSede": "atl"
+    "idSede": "gua"
   },
   {
     "idPartido": 64,
@@ -764,7 +764,7 @@
     "jornada": 3,
     "fecha": "2026-06-27",
     "hora": "02:00",
-    "idSede": "mia"
+    "idSede": "hou"
   },
   {
     "idPartido": 65,
@@ -776,7 +776,7 @@
     "jornada": 3,
     "fecha": "2026-06-26",
     "hora": "21:00",
-    "idSede": "rut"
+    "idSede": "bos"
   },
   {
     "idPartido": 66,
@@ -788,7 +788,7 @@
     "jornada": 3,
     "fecha": "2026-06-26",
     "hora": "21:00",
-    "idSede": "fox"
+    "idSede": "tor"
   },
   {
     "idPartido": 67,
@@ -800,7 +800,7 @@
     "jornada": 3,
     "fecha": "2026-06-28",
     "hora": "04:00",
-    "idSede": "kc"
+    "idSede": "dal"
   },
   {
     "idPartido": 68,
@@ -812,7 +812,7 @@
     "jornada": 3,
     "fecha": "2026-06-28",
     "hora": "04:00",
-    "idSede": "scl"
+    "idSede": "kc"
   },
   {
     "idPartido": 69,
@@ -824,7 +824,7 @@
     "jornada": 3,
     "fecha": "2026-06-28",
     "hora": "01:30",
-    "idSede": "hou"
+    "idSede": "mia"
   },
   {
     "idPartido": 70,
@@ -836,7 +836,7 @@
     "jornada": 3,
     "fecha": "2026-06-28",
     "hora": "01:30",
-    "idSede": "mex"
+    "idSede": "atl"
   },
   {
     "idPartido": 47,
@@ -848,7 +848,7 @@
     "jornada": 3,
     "fecha": "2026-06-27",
     "hora": "23:00",
-    "idSede": "arl"
+    "idSede": "ny"
   },
   {
     "idPartido": 48,
@@ -860,6 +860,6 @@
     "jornada": 3,
     "fecha": "2026-06-27",
     "hora": "23:00",
-    "idSede": "tor"
+    "idSede": "phi"
   }
 ]
