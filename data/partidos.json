@@ -1150,5 +1150,89 @@
     "fecha": "2026-06-27",
     "hora": "23:00",
     "idSede": "phi"
+  },
+  {
+    "idPartido": 97,
+    "idEquipoLocal": "cro",
+    "idEquipoVisitante": "gha",
+    "golesLocal": 3,
+    "golesVisitante": 4,
+    "idFase": "r4",
+    "jornada": null,
+    "fecha": "2026-06-27",
+    "hora": "23:00",
+    "idSede": "phi"
+  },
+  {
+    "idPartido": 98,
+    "idEquipoLocal": "cro",
+    "idEquipoVisitante": "gha",
+    "golesLocal": 3,
+    "golesVisitante": 4,
+    "idFase": "r4",
+    "jornada": null,
+    "fecha": "2026-06-27",
+    "hora": "23:00",
+    "idSede": "phi"
+  },
+  {
+    "idPartido": 99,
+    "idEquipoLocal": "cro",
+    "idEquipoVisitante": "gha",
+    "golesLocal": 3,
+    "golesVisitante": 4,
+    "idFase": "r4",
+    "jornada": null,
+    "fecha": "2026-06-27",
+    "hora": "23:00",
+    "idSede": "phi"
+  },
+  {
+    "idPartido": 100,
+    "idEquipoLocal": "cro",
+    "idEquipoVisitante": "gha",
+    "golesLocal": 3,
+    "golesVisitante": 4,
+    "idFase": "r4",
+    "jornada": null,
+    "fecha": "2026-06-27",
+    "hora": "23:00",
+    "idSede": "phi"
+  },
+  {
+    "idPartido": 101,
+    "idEquipoLocal": "cro",
+    "idEquipoVisitante": "gha",
+    "golesLocal": 3,
+    "golesVisitante": 4,
+    "idFase": "sf",
+    "jornada": null,
+    "fecha": "2026-06-27",
+    "hora": "23:00",
+    "idSede": "phi"
+  },
+  {
+    "idPartido": 102,
+    "idEquipoLocal": "cro",
+    "idEquipoVisitante": "gha",
+    "golesLocal": 3,
+    "golesVisitante": 4,
+    "idFase": "sf",
+    "jornada": null,
+    "fecha": "2026-06-27",
+    "hora": "23:00",
+    "idSede": "phi"
+  },
+  {
+    "idPartido": 103,
+    "idEquipoLocal": "cro",
+    "idEquipoVisitante": "gha",
+    "golesLocal": 3,
+    "golesVisitante": 4,
+    "idFase": "final",
+    "jornada": null,
+    "fecha": "2026-06-27",
+    "hora": "23:00",
+    "idSede": "phi"
   }
 ]
