@@ -1225,14 +1225,16 @@
   },
   {
     "idPartido": 103,
-    "idEquipoLocal": "cro",
-    "idEquipoVisitante": "gha",
+    "idEquipoLocal": "tbd",
+    "idEquipoVisitante": "tbd",
     "golesLocal": 3,
     "golesVisitante": 4,
     "idFase": "final",
     "jornada": null,
     "fecha": "2026-06-27",
     "hora": "23:00",
-    "idSede": "phi"
+    "idSede": "phi",
+    "placeholderLocal": "1A",
+    "placeholderVisitante": "3C"
   }
 ]
