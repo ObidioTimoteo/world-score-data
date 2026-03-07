@@ -1054,5 +1054,101 @@
     "fecha": "2026-06-27",
     "hora": "23:00",
     "idSede": "phi"
+  },
+  {
+    "idPartido": 89,
+    "idEquipoLocal": "cro",
+    "idEquipoVisitante": "gha",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "idFase": "r8",
+    "jornada": null,
+    "fecha": "2026-06-27",
+    "hora": "23:00",
+    "idSede": "phi"
+  },
+  {
+    "idPartido": 90,
+    "idEquipoLocal": "cro",
+    "idEquipoVisitante": "gha",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "idFase": "r8",
+    "jornada": null,
+    "fecha": "2026-06-27",
+    "hora": "23:00",
+    "idSede": "phi"
+  },
+  {
+    "idPartido": 91,
+    "idEquipoLocal": "cro",
+    "idEquipoVisitante": "gha",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "idFase": "r8",
+    "jornada": null,
+    "fecha": "2026-06-27",
+    "hora": "23:00",
+    "idSede": "phi"
+  },
+  {
+    "idPartido": 92,
+    "idEquipoLocal": "cro",
+    "idEquipoVisitante": "gha",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "idFase": "r8",
+    "jornada": null,
+    "fecha": "2026-06-27",
+    "hora": "23:00",
+    "idSede": "phi"
+  },
+  {
+    "idPartido": 93,
+    "idEquipoLocal": "cro",
+    "idEquipoVisitante": "gha",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "idFase": "r8",
+    "jornada": null,
+    "fecha": "2026-06-27",
+    "hora": "23:00",
+    "idSede": "phi"
+  },
+  {
+    "idPartido": 94,
+    "idEquipoLocal": "cro",
+    "idEquipoVisitante": "gha",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "idFase": "r8",
+    "jornada": null,
+    "fecha": "2026-06-27",
+    "hora": "23:00",
+    "idSede": "phi"
+  },
+  {
+    "idPartido": 95,
+    "idEquipoLocal": "cro",
+    "idEquipoVisitante": "gha",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "idFase": "r8",
+    "jornada": null,
+    "fecha": "2026-06-27",
+    "hora": "23:00",
+    "idSede": "phi"
+  },
+  {
+    "idPartido": 96,
+    "idEquipoLocal": "cro",
+    "idEquipoVisitante": "gha",
+    "golesLocal": null,
+    "golesVisitante": null,
+    "idFase": "r8",
+    "jornada": null,
+    "fecha": "2026-06-27",
+    "hora": "23:00",
+    "idSede": "phi"
   }
 ]
