@@ -866,7 +866,7 @@
   {
     "idPartido": 73,
     "idEquipoLocal": "cro",
-    "idEquipoVisitante": "gha"
+    "idEquipoVisitante": "gha",
     "golesLocal": 2,
     "golesVisitante": 1,
     "idFase": "r16",
@@ -1201,8 +1201,8 @@
   },
   {
     "idPartido": 101,
-    "idEquipoLocal": 89,
-    "idEquipoVisitante": 89,
+    "idEquipoLocal": "cro",
+    "idEquipoVisitante": "gha",
     "golesLocal": 3,
     "golesVisitante": 4,
     "idFase": "sf",
