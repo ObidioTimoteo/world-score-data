@@ -367,8 +367,8 @@
     "golesVisitante": 2,
     "idFase": "grupo",
     "jornada": 2,
-    "fecha": "219/06/26",
-    "hora": "00:00",
+    "fecha": "19/06/26",
+    "hora": "21:00",
     "idSede": "sea"
   },
   {
@@ -595,7 +595,7 @@
     "golesVisitante": 2,
     "idFase": "grupo",
     "jornada": 3,
-    "fecha": "225/06/26",
+    "fecha": "25/06/26",
     "hora": "03:00",
     "idSede": "mex"
   },
@@ -1233,7 +1233,7 @@
     "golesVisitante": null,
     "idFase": "final",
     "jornada": null,
-    "fecha": "2026-06-27",
+    "fecha": "19/07/26",
     "hora": "23:00",
     "idSede": "ny",
     "placeholderLocal": "1A",
