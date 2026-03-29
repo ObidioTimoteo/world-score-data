@@ -871,9 +871,9 @@
     "golesVisitante": null,
     "idFase": "r16",
     "jornada": null,
-    "fecha": "2026-06-27",
+    "fecha": "28/06/26",
     "hora": "23:00",
-    "idSede": "phi"
+    "idSede": "la"
   },
   {
     "idPartido": 74,
@@ -883,9 +883,9 @@
     "golesVisitante": null,
     "idFase": "r16",
     "jornada": null,
-    "fecha": "2026-06-27",
+    "fecha": "29/06/26",
     "hora": "23:00",
-    "idSede": "phi"
+    "idSede": "bos"
   },
   {
     "idPartido": 75,
@@ -895,9 +895,9 @@
     "golesVisitante": null,
     "idFase": "r16",
     "jornada": null,
-    "fecha": "2026-06-27",
+    "fecha": "29/06/26",
     "hora": "23:00",
-    "idSede": "phi"
+    "idSede": "mon"
   },
   {
     "idPartido": 76,
@@ -907,9 +907,9 @@
     "golesVisitante": null,
     "idFase": "r16",
     "jornada": null,
-    "fecha": "2026-06-27",
+    "fecha": "29/06/26",
     "hora": "23:00",
-    "idSede": "phi"
+    "idSede": "hou"
   },
   {
     "idPartido": 77,
@@ -919,9 +919,9 @@
     "golesVisitante": null,
     "idFase": "r16",
     "jornada": null,
-    "fecha": "2026-06-27",
+    "fecha": "30/06/26",
     "hora": "23:00",
-    "idSede": "phi"
+    "idSede": "ny"
   },
   {
     "idPartido": 78,
@@ -931,9 +931,9 @@
     "golesVisitante": null,
     "idFase": "r16",
     "jornada": null,
-    "fecha": "2026-06-27",
+    "fecha": "30/06/26",
     "hora": "23:00",
-    "idSede": "phi"
+    "idSede": "dal"
   },
   {
     "idPartido": 79,
@@ -943,9 +943,9 @@
     "golesVisitante": null,
     "idFase": "r16",
     "jornada": null,
-    "fecha": "2026-06-27",
+    "fecha": "30/06/26",
     "hora": "23:00",
-    "idSede": "phi"
+    "idSede": "mex"
   },
   {
     "idPartido": 80,
@@ -955,9 +955,9 @@
     "golesVisitante": null,
     "idFase": "r16",
     "jornada": null,
-    "fecha": "2026-06-27",
+    "fecha": "01/07/26",
     "hora": "23:00",
-    "idSede": "phi"
+    "idSede": "atl"
   },
   {
     "idPartido": 81,
@@ -967,9 +967,9 @@
     "golesVisitante": null,
     "idFase": "r16",
     "jornada": null,
-    "fecha": "2026-06-27",
+    "fecha": "01/07/26",
     "hora": "23:00",
-    "idSede": "phi"
+    "idSede": "sfc"
   },
   {
     "idPartido": 82,
@@ -979,9 +979,9 @@
     "golesVisitante": null,
     "idFase": "r16",
     "jornada": null,
-    "fecha": "2026-06-27",
+    "fecha": "01/07/26",
     "hora": "23:00",
-    "idSede": "phi"
+    "idSede": "sea"
   },
   {
     "idPartido": 83,
@@ -991,9 +991,9 @@
     "golesVisitante": null,
     "idFase": "r16",
     "jornada": null,
-    "fecha": "2026-06-27",
+    "fecha": "02/07/26",
     "hora": "23:00",
-    "idSede": "phi"
+    "idSede": "tor"
   },
   {
     "idPartido": 84,
@@ -1003,9 +1003,9 @@
     "golesVisitante": null,
     "idFase": "r16",
     "jornada": null,
-    "fecha": "2026-06-27",
+    "fecha": "02/07/26",
     "hora": "23:00",
-    "idSede": "phi"
+    "idSede": "la"
   },
   {
     "idPartido": 85,
@@ -1015,9 +1015,9 @@
     "golesVisitante": null,
     "idFase": "r16",
     "jornada": null,
-    "fecha": "2026-06-27",
+    "fecha": "02/07/26",
     "hora": "23:00",
-    "idSede": "phi"
+    "idSede": "van"
   },
   {
     "idPartido": 86,
@@ -1027,9 +1027,9 @@
     "golesVisitante": null,
     "idFase": "r16",
     "jornada": null,
-    "fecha": "2026-06-27",
+    "fecha": "03/07/26",
     "hora": "23:00",
-    "idSede": "phi"
+    "idSede": "mia"
   },
   {
     "idPartido": 87,
@@ -1039,9 +1039,9 @@
     "golesVisitante": null,
     "idFase": "r16",
     "jornada": null,
-    "fecha": "2026-06-27",
+    "fecha": "03/07/26",
     "hora": "23:00",
-    "idSede": "phi"
+    "idSede": "kc"
   },
   {
     "idPartido": 88,
@@ -1051,9 +1051,9 @@
     "golesVisitante": null,
     "idFase": "r16",
     "jornada": null,
-    "fecha": "2026-06-27",
+    "fecha": "03/07/26",
     "hora": "23:00",
-    "idSede": "phi"
+    "idSede": "dal"
   },
   {
     "idPartido": 89,
@@ -1063,7 +1063,7 @@
     "golesVisitante": null,
     "idFase": "r8",
     "jornada": null,
-    "fecha": "2026-06-27",
+    "fecha": "04/07/26",
     "hora": "23:00",
     "idSede": "phi"
   },
@@ -1075,9 +1075,9 @@
     "golesVisitante": null,
     "idFase": "r8",
     "jornada": null,
-    "fecha": "2026-06-27",
+    "fecha": "04/07/26",
     "hora": "23:00",
-    "idSede": "phi"
+    "idSede": "hou"
   },
   {
     "idPartido": 91,
@@ -1087,9 +1087,9 @@
     "golesVisitante": null,
     "idFase": "r8",
     "jornada": null,
-    "fecha": "2026-06-27",
+    "fecha": "05/07/26",
     "hora": "23:00",
-    "idSede": "phi"
+    "idSede": "ny"
   },
   {
     "idPartido": 92,
@@ -1099,9 +1099,9 @@
     "golesVisitante": null,
     "idFase": "r8",
     "jornada": null,
-    "fecha": "2026-06-27",
+    "fecha": "05/07/26",
     "hora": "23:00",
-    "idSede": "phi"
+    "idSede": "mex"
   },
   {
     "idPartido": 93,
@@ -1111,9 +1111,9 @@
     "golesVisitante": null,
     "idFase": "r8",
     "jornada": null,
-    "fecha": "2026-06-27",
+    "fecha": "06/07/26",
     "hora": "23:00",
-    "idSede": "phi"
+    "idSede": "dal"
   },
   {
     "idPartido": 94,
@@ -1123,9 +1123,9 @@
     "golesVisitante": null,
     "idFase": "r8",
     "jornada": null,
-    "fecha": "2026-06-27",
+    "fecha": "06/07/26",
     "hora": "23:00",
-    "idSede": "phi"
+    "idSede": "sea"
   },
   {
     "idPartido": 95,
@@ -1135,9 +1135,9 @@
     "golesVisitante": null,
     "idFase": "r8",
     "jornada": null,
-    "fecha": "2026-06-27",
+    "fecha": "07/07/26",
     "hora": "23:00",
-    "idSede": "phi"
+    "idSede": "atl"
   },
   {
     "idPartido": 96,
@@ -1147,9 +1147,9 @@
     "golesVisitante": null,
     "idFase": "r8",
     "jornada": null,
-    "fecha": "2026-06-27",
+    "fecha": "07/07/26",
     "hora": "23:00",
-    "idSede": "phi"
+    "idSede": "van"
   },
   {
     "idPartido": 97,
@@ -1159,9 +1159,9 @@
     "golesVisitante": null,
     "idFase": "r4",
     "jornada": null,
-    "fecha": "2026-06-27",
+    "fecha": "09/07/26",
     "hora": "23:00",
-    "idSede": "phi"
+    "idSede": "bos"
   },
   {
     "idPartido": 98,
@@ -1171,9 +1171,9 @@
     "golesVisitante": null,
     "idFase": "r4",
     "jornada": null,
-    "fecha": "2026-06-27",
+    "fecha": "10/07/26",
     "hora": "23:00",
-    "idSede": "phi"
+    "idSede": "la"
   },
   {
     "idPartido": 99,
@@ -1183,9 +1183,9 @@
     "golesVisitante": null,
     "idFase": "r4",
     "jornada": null,
-    "fecha": "2026-06-27",
+    "fecha": "11/07/26",
     "hora": "23:00",
-    "idSede": "phi"
+    "idSede": "mia"
   },
   {
     "idPartido": 100,
@@ -1195,9 +1195,9 @@
     "golesVisitante": null,
     "idFase": "r4",
     "jornada": null,
-    "fecha": "2026-06-27",
+    "fecha": "11/07/26",
     "hora": "23:00",
-    "idSede": "phi"
+    "idSede": "kc"
   },
   {
     "idPartido": 101,
@@ -1207,9 +1207,9 @@
     "golesVisitante": null,
     "idFase": "sf",
     "jornada": null,
-    "fecha": "2026-06-27",
+    "fecha": "14/07/26",
     "hora": "23:00",
-    "idSede": "phi"
+    "idSede": "dal"
   },
   {
     "idPartido": 102,
@@ -1219,9 +1219,9 @@
     "golesVisitante": null,
     "idFase": "sf",
     "jornada": null,
-    "fecha": "2026-06-27",
+    "fecha": "15/07/26",
     "hora": "23:00",
-    "idSede": "phi"
+    "idSede": "atl"
   },
   {
     "idPartido": 103,
@@ -1233,7 +1233,7 @@
     "jornada": null,
     "fecha": "2026-06-27",
     "hora": "23:00",
-    "idSede": "phi",
+    "idSede": "ny",
     "placeholderLocal": "1A",
     "placeholderVisitante": "3C"
   }
