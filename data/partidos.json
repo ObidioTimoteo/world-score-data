@@ -865,15 +865,17 @@
   },
   {
     "idPartido": 73,
-    "idEquipoLocal": "cro",
-    "idEquipoVisitante": "gha",
+    "idEquipoLocal": "tbd",
+    "idEquipoVisitante": "tbd",
     "golesLocal": null,
     "golesVisitante": null,
     "idFase": "r16",
     "jornada": null,
     "fecha": "28/06/26",
     "hora": "23:00",
-    "idSede": "la"
+    "idSede": "la",
+    "placeholderLocal": "2A",
+    "placeholderVisitante": "2B"
   },
   {
     "idPartido": 74,
