@@ -872,7 +872,7 @@
     "idFase": "r16",
     "jornada": null,
     "fecha": "28/06/26",
-    "hora": "23:00",
+    "hora": "21:00",
     "idSede": "la",
     "placeholderLocal": "2A",
     "placeholderVisitante": "2B"
@@ -886,7 +886,7 @@
     "idFase": "r16",
     "jornada": null,
     "fecha": "29/06/26",
-    "hora": "23:00",
+    "hora": "22:30",
     "idSede": "bos"
   },
   {
@@ -897,8 +897,8 @@
     "golesVisitante": null,
     "idFase": "r16",
     "jornada": null,
-    "fecha": "29/06/26",
-    "hora": "23:00",
+    "fecha": "30/06/26",
+    "hora": "03:00",
     "idSede": "mon"
   },
   {
@@ -910,7 +910,7 @@
     "idFase": "r16",
     "jornada": null,
     "fecha": "29/06/26",
-    "hora": "23:00",
+    "hora": "19:00",
     "idSede": "hou"
   },
   {
@@ -945,8 +945,8 @@
     "golesVisitante": null,
     "idFase": "r16",
     "jornada": null,
-    "fecha": "30/06/26",
-    "hora": "23:00",
+    "fecha": "01/07/26",
+    "hora": "03:00",
     "idSede": "mex"
   },
   {
@@ -958,7 +958,7 @@
     "idFase": "r16",
     "jornada": null,
     "fecha": "01/07/26",
-    "hora": "23:00",
+    "hora": "18:00",
     "idSede": "atl"
   },
   {
@@ -969,8 +969,8 @@
     "golesVisitante": null,
     "idFase": "r16",
     "jornada": null,
-    "fecha": "01/07/26",
-    "hora": "23:00",
+    "fecha": "02/07/26",
+    "hora": "02:00",
     "idSede": "sf"
   },
   {
@@ -982,7 +982,7 @@
     "idFase": "r16",
     "jornada": null,
     "fecha": "01/07/26",
-    "hora": "23:00",
+    "hora": "22:00",
     "idSede": "sea"
   },
   {
@@ -993,8 +993,8 @@
     "golesVisitante": null,
     "idFase": "r16",
     "jornada": null,
-    "fecha": "02/07/26",
-    "hora": "23:00",
+    "fecha": "03/07/26",
+    "hora": "01:00",
     "idSede": "tor"
   },
   {
@@ -1006,7 +1006,7 @@
     "idFase": "r16",
     "jornada": null,
     "fecha": "02/07/26",
-    "hora": "23:00",
+    "hora": "21:00",
     "idSede": "la"
   },
   {
@@ -1017,8 +1017,8 @@
     "golesVisitante": null,
     "idFase": "r16",
     "jornada": null,
-    "fecha": "02/07/26",
-    "hora": "23:00",
+    "fecha": "03/07/26",
+    "hora": "05:00",
     "idSede": "van"
   },
   {
@@ -1029,8 +1029,8 @@
     "golesVisitante": null,
     "idFase": "r16",
     "jornada": null,
-    "fecha": "03/07/26",
-    "hora": "23:00",
+    "fecha": "04/07/26",
+    "hora": "00:00",
     "idSede": "mia"
   },
   {
@@ -1041,8 +1041,8 @@
     "golesVisitante": null,
     "idFase": "r16",
     "jornada": null,
-    "fecha": "03/07/26",
-    "hora": "23:00",
+    "fecha": "04/07/26",
+    "hora": "03:30",
     "idSede": "kc"
   },
   {
@@ -1054,7 +1054,7 @@
     "idFase": "r16",
     "jornada": null,
     "fecha": "03/07/26",
-    "hora": "23:00",
+    "hora": "20:00",
     "idSede": "dal"
   },
   {
@@ -1078,7 +1078,7 @@
     "idFase": "r8",
     "jornada": null,
     "fecha": "04/07/26",
-    "hora": "23:00",
+    "hora": "19:00",
     "idSede": "hou"
   },
   {
@@ -1090,7 +1090,7 @@
     "idFase": "r8",
     "jornada": null,
     "fecha": "05/07/26",
-    "hora": "23:00",
+    "hora": "22:00",
     "idSede": "ny"
   },
   {
@@ -1101,8 +1101,8 @@
     "golesVisitante": null,
     "idFase": "r8",
     "jornada": null,
-    "fecha": "05/07/26",
-    "hora": "23:00",
+    "fecha": "06/07/26",
+    "hora": "02:00",
     "idSede": "mex"
   },
   {
@@ -1114,7 +1114,7 @@
     "idFase": "r8",
     "jornada": null,
     "fecha": "06/07/26",
-    "hora": "23:00",
+    "hora": "21:00",
     "idSede": "dal"
   },
   {
@@ -1125,8 +1125,8 @@
     "golesVisitante": null,
     "idFase": "r8",
     "jornada": null,
-    "fecha": "06/07/26",
-    "hora": "23:00",
+    "fecha": "07/07/26",
+    "hora": "02:00",
     "idSede": "sea"
   },
   {
@@ -1138,7 +1138,7 @@
     "idFase": "r8",
     "jornada": null,
     "fecha": "07/07/26",
-    "hora": "23:00",
+    "hora": "18:00",
     "idSede": "atl"
   },
   {
@@ -1150,7 +1150,7 @@
     "idFase": "r8",
     "jornada": null,
     "fecha": "07/07/26",
-    "hora": "23:00",
+    "hora": "22:00",
     "idSede": "van"
   },
   {
@@ -1162,7 +1162,7 @@
     "idFase": "r4",
     "jornada": null,
     "fecha": "09/07/26",
-    "hora": "23:00",
+    "hora": "22:00",
     "idSede": "bos"
   },
   {
@@ -1174,7 +1174,7 @@
     "idFase": "r4",
     "jornada": null,
     "fecha": "10/07/26",
-    "hora": "23:00",
+    "hora": "21:00",
     "idSede": "la"
   },
   {
@@ -1197,8 +1197,8 @@
     "golesVisitante": null,
     "idFase": "r4",
     "jornada": null,
-    "fecha": "11/07/26",
-    "hora": "23:00",
+    "fecha": "12/07/26",
+    "hora": "03:00",
     "idSede": "kc"
   },
   {
@@ -1210,7 +1210,7 @@
     "idFase": "sf",
     "jornada": null,
     "fecha": "14/07/26",
-    "hora": "23:00",
+    "hora": "21:00",
     "idSede": "dal"
   },
   {
@@ -1222,7 +1222,7 @@
     "idFase": "sf",
     "jornada": null,
     "fecha": "15/07/26",
-    "hora": "23:00",
+    "hora": "21:00",
     "idSede": "atl"
   },
   {
@@ -1231,10 +1231,24 @@
     "idEquipoVisitante": "tbd",
     "golesLocal": null,
     "golesVisitante": null,
+    "idFase": "3-4",
+    "jornada": null,
+    "fecha": "18/07/26",
+    "hora": "23:00",
+    "idSede": "mia",
+    "placeholderLocal": "1A",
+    "placeholderVisitante": "3C"
+  },
+  {
+    "idPartido": 104,
+    "idEquipoLocal": "tbd",
+    "idEquipoVisitante": "tbd",
+    "golesLocal": null,
+    "golesVisitante": null,
     "idFase": "final",
     "jornada": null,
     "fecha": "19/07/26",
-    "hora": "23:00",
+    "hora": "21:00",
     "idSede": "ny",
     "placeholderLocal": "1A",
     "placeholderVisitante": "3C"
