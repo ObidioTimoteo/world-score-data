@@ -1161,7 +1161,9 @@
     "jornada": null,
     "fecha": "09/07/26",
     "hora": "22:00",
-    "idSede": "bos"
+    "idSede": "bos",
+    "placeholderLocal": "1-r8",
+    "placeholderVisitante": "2-r8"
   },
   {
     "idPartido": 98,
@@ -1173,7 +1175,9 @@
     "jornada": null,
     "fecha": "10/07/26",
     "hora": "21:00",
-    "idSede": "la"
+    "idSede": "la",
+    "placeholderLocal": "5-r8",
+    "placeholderVisitante": "6-r8"
   },
   {
     "idPartido": 99,
@@ -1185,7 +1189,9 @@
     "jornada": null,
     "fecha": "11/07/26",
     "hora": "23:00",
-    "idSede": "mia"
+    "idSede": "mia",
+    "placeholderLocal": "3-r8",
+    "placeholderVisitante": "4-r8"
   },
   {
     "idPartido": 100,
@@ -1197,7 +1203,9 @@
     "jornada": null,
     "fecha": "12/07/26",
     "hora": "03:00",
-    "idSede": "kc"
+    "idSede": "kc",
+    "placeholderLocal": "7-r8",
+    "placeholderVisitante": "8-r8"
   },
   {
     "idPartido": 101,
@@ -1209,7 +1217,9 @@
     "jornada": null,
     "fecha": "14/07/26",
     "hora": "21:00",
-    "idSede": "dal"
+    "idSede": "dal",
+    "placeholderLocal": "1-r4",
+    "placeholderVisitante": "3-r4"
   },
   {
     "idPartido": 102,
@@ -1221,7 +1231,9 @@
     "jornada": null,
     "fecha": "15/07/26",
     "hora": "21:00",
-    "idSede": "atl"
+    "idSede": "atl",
+    "placeholderLocal": "2-r4",
+    "placeholderVisitante": "3-r4"
   },
   {
     "idPartido": 103,
@@ -1234,8 +1246,8 @@
     "fecha": "18/07/26",
     "hora": "23:00",
     "idSede": "mia",
-    "placeholderLocal": "1A",
-    "placeholderVisitante": "3C"
+    "placeholderLocal": "1-sf",
+    "placeholderVisitante": "2-sf"
   },
   {
     "idPartido": 104,
@@ -1248,7 +1260,7 @@
     "fecha": "19/07/26",
     "hora": "21:00",
     "idSede": "ny",
-    "placeholderLocal": "1A",
-    "placeholderVisitante": "3C"
+    "placeholderLocal": "1-sf",
+    "placeholderVisitante": "2-sf"
   }
 ]
