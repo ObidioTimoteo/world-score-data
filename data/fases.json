@@ -4,5 +4,6 @@
   { "idFase": "r8", "nombre": "Octavos" },
   { "idFase": "r4", "nombre": "Cuartos" },
   { "idFase": "sf", "nombre": "Semifinal" },
+  { "idFase": "3-4", "nombre": "3-4" },
   { "idFase": "final", "nombre": "Final" }
 ]
