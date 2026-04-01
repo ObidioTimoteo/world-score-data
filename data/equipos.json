@@ -18,9 +18,9 @@
     "grupo": "A"
   },
   {
-    "idEquipo": "pdA",
-    "nombre": "Por determinar A",
-    "banderaUrl": "https://raw.githubusercontent.com/ObidioTimoteo/world-score-data/main/assets/flags/esp.png",
+    "idEquipo": "cze",
+    "nombre": "República Checa",
+    "banderaUrl": "https://raw.githubusercontent.com/ObidioTimoteo/world-score-data/main/assets/flags/cze.png",
     "grupo": "A"
   },
   {
@@ -30,9 +30,9 @@
     "grupo": "B"
   },
   {
-    "idEquipo": "pdB",
-    "nombre": "Por determinar B",
-    "banderaUrl": "https://raw.githubusercontent.com/ObidioTimoteo/world-score-data/main/assets/flags/esp.png",
+    "idEquipo": "bih",
+    "nombre": "Bosnia Herzegovina",
+    "banderaUrl": "https://raw.githubusercontent.com/ObidioTimoteo/world-score-data/main/assets/flags/bih.png",
     "grupo": "B"
   },
   {
@@ -90,9 +90,9 @@
     "grupo": "D"
   },
   {
-    "idEquipo": "pdD",
-    "nombre": "Por determinar D",
-    "banderaUrl": "https://raw.githubusercontent.com/ObidioTimoteo/world-score-data/main/assets/flags/esp.png",
+    "idEquipo": "tur",
+    "nombre": "Turquía",
+    "banderaUrl": "https://raw.githubusercontent.com/ObidioTimoteo/world-score-data/main/assets/flags/tur.png",
     "grupo": "D"
   },
   {
@@ -132,9 +132,9 @@
     "grupo": "F"
   },
   {
-    "idEquipo": "pdF",
-    "nombre": "Por determinar F",
-    "banderaUrl": "https://raw.githubusercontent.com/ObidioTimoteo/world-score-data/main/assets/flags/esp.png",
+    "idEquipo": "swe",
+    "nombre": "Suecia",
+    "banderaUrl": "https://raw.githubusercontent.com/ObidioTimoteo/world-score-data/main/assets/flags/swe.png",
     "grupo": "F"
   },
   {
@@ -204,9 +204,9 @@
     "grupo": "I"
   },
   {
-    "idEquipo": "pdI",
-    "nombre": "Por determinar I",
-    "banderaUrl": "https://raw.githubusercontent.com/ObidioTimoteo/world-score-data/main/assets/flags/esp.png",
+    "idEquipo": "irq",
+    "nombre": "Iraq",
+    "banderaUrl": "https://raw.githubusercontent.com/ObidioTimoteo/world-score-data/main/assets/flags/irq.png",
     "grupo": "I"
   },
   {
@@ -246,9 +246,9 @@
     "grupo": "K"
   },
   {
-    "idEquipo": "pdK",
-    "nombre": "Por determinar K",
-    "banderaUrl": "https://raw.githubusercontent.com/ObidioTimoteo/world-score-data/main/assets/flags/esp.png",
+    "idEquipo": "cod",
+    "nombre": "República Democrática del Congo",
+    "banderaUrl": "https://raw.githubusercontent.com/ObidioTimoteo/world-score-data/main/assets/flags/cod.png",
     "grupo": "K"
   },
   {
