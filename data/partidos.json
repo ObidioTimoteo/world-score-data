@@ -14,7 +14,7 @@
   {
     "idPartido": 2,
     "idEquipoLocal": "kor",
-    "idEquipoVisitante": "pdA",
+    "idEquipoVisitante": "cze",
     "golesLocal": 1,
     "golesVisitante": 1,
     "idFase": "grupo",
@@ -26,7 +26,7 @@
   {
     "idPartido": 3,
     "idEquipoLocal": "can",
-    "idEquipoVisitante": "pdB",
+    "idEquipoVisitante": "bih",
     "golesLocal": 0,
     "golesVisitante": 2,
     "idFase": "grupo",
@@ -86,7 +86,7 @@
   {
     "idPartido": 8,
     "idEquipoLocal": "aus",
-    "idEquipoVisitante": "pdD",
+    "idEquipoVisitante": "tur",
     "golesLocal": 0,
     "golesVisitante": 0,
     "idFase": "grupo",
@@ -133,7 +133,7 @@
   },
   {
     "idPartido": 12,
-    "idEquipoLocal": "pdF",
+    "idEquipoLocal": "swe",
     "idEquipoVisitante": "tun",
     "golesLocal": 0,
     "golesVisitante": 1,
@@ -205,7 +205,7 @@
   },
   {
     "idPartido": 18,
-    "idEquipoLocal": "pdI",
+    "idEquipoLocal": "irq",
     "idEquipoVisitante": "nor",
     "golesLocal": 1,
     "golesVisitante": 1,
@@ -242,7 +242,7 @@
   {
     "idPartido": 21,
     "idEquipoLocal": "por",
-    "idEquipoVisitante": "pdK",
+    "idEquipoVisitante": "cod",
     "golesLocal": 2,
     "golesVisitante": 0,
     "idFase": "grupo",
@@ -289,7 +289,7 @@
   },
   {
     "idPartido": 25,
-    "idEquipoLocal": "pdA",
+    "idEquipoLocal": "cze",
     "idEquipoVisitante": "rsa",
     "golesLocal": 0,
     "golesVisitante": 0,
@@ -326,7 +326,7 @@
   {
     "idPartido": 28,
     "idEquipoLocal": "sui",
-    "idEquipoVisitante": "pdB",
+    "idEquipoVisitante": "bih",
     "golesLocal": 2,
     "golesVisitante": 0,
     "idFase": "grupo",
@@ -373,7 +373,7 @@
   },
   {
     "idPartido": 32,
-    "idEquipoLocal": "pdD",
+    "idEquipoLocal": "tur",
     "idEquipoVisitante": "par",
     "golesLocal": 0,
     "golesVisitante": 2,
@@ -410,7 +410,7 @@
   {
     "idPartido": 35,
     "idEquipoLocal": "ned",
-    "idEquipoVisitante": "pdF",
+    "idEquipoVisitante": "swe",
     "golesLocal": 2,
     "golesVisitante": 0,
     "idFase": "grupo",
@@ -482,7 +482,7 @@
   {
     "idPartido": 41,
     "idEquipoLocal": "fra",
-    "idEquipoVisitante": "pdI",
+    "idEquipoVisitante": "irq",
     "golesLocal": 2,
     "golesVisitante": 0,
     "idFase": "grupo",
@@ -542,7 +542,7 @@
   {
     "idPartido": 46,
     "idEquipoLocal": "col",
-    "idEquipoVisitante": "pdK",
+    "idEquipoVisitante": "cod",
     "golesLocal": 1,
     "golesVisitante": 0,
     "idFase": "grupo",
@@ -589,7 +589,7 @@
   },
   {
     "idPartido": 50,
-    "idEquipoLocal": "pdA",
+    "idEquipoLocal": "cze",
     "idEquipoVisitante": "mex",
     "golesLocal": 0,
     "golesVisitante": 2,
@@ -613,7 +613,7 @@
   },
   {
     "idPartido": 52,
-    "idEquipoLocal": "pdB",
+    "idEquipoLocal": "bih",
     "idEquipoVisitante": "qat",
     "golesLocal": 2,
     "golesVisitante": 0,
@@ -649,7 +649,7 @@
   },
   {
     "idPartido": 55,
-    "idEquipoLocal": "pdD",
+    "idEquipoLocal": "tur",
     "idEquipoVisitante": "usa",
     "golesLocal": 1,
     "golesVisitante": 2,
@@ -710,7 +710,7 @@
   {
     "idPartido": 60,
     "idEquipoLocal": "jpn",
-    "idEquipoVisitante": "pdF",
+    "idEquipoVisitante": "swe",
     "golesLocal": 1,
     "golesVisitante": 1,
     "idFase": "grupo",
@@ -782,7 +782,7 @@
   {
     "idPartido": 66,
     "idEquipoLocal": "sen",
-    "idEquipoVisitante": "pdI",
+    "idEquipoVisitante": "irq",
     "golesLocal": 1,
     "golesVisitante": 0,
     "idFase": "grupo",
@@ -829,7 +829,7 @@
   },
   {
     "idPartido": 70,
-    "idEquipoLocal": "pdK",
+    "idEquipoLocal": "cod",
     "idEquipoVisitante": "uzb",
     "golesLocal": 0,
     "golesVisitante": 0,
@@ -1009,7 +1009,7 @@
   },
   {
     "idPartido": 85,
-    "idEquipoLocal": "pdB",
+    "idEquipoLocal": "bih",
     "idEquipoVisitante": "egy",
     "golesLocal": 2,
     "golesVisitante": 1,
@@ -1141,7 +1141,7 @@
   },
   {
     "idPartido": 96,
-    "idEquipoLocal": "pdB",
+    "idEquipoLocal": "bih",
     "idEquipoVisitante": "por",
     "golesLocal": null,
     "golesVisitante": null,
