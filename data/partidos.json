@@ -1009,8 +1009,8 @@
   },
   {
     "idPartido": 73,
-    "idEquipoLocal": "kor",
-    "idEquipoVisitante": "sui",
+    "idEquipoLocal": "tbd",
+    "idEquipoVisitante": "tbd",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1019,12 +1019,14 @@
     "jornada": null,
     "fecha": "28/06/26",
     "hora": "21:00",
-    "idSede": "la"
+    "idSede": "la",
+    "placeholderLocal": "2A",
+    "placeholderVisitante":"2B"
   },
   {
     "idPartido": 74,
-    "idEquipoLocal": "ger",
-    "idEquipoVisitante": "can",
+    "idEquipoLocal": "tbd",
+    "idEquipoVisitante": "tbd",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1033,12 +1035,14 @@
     "jornada": null,
     "fecha": "29/06/26",
     "hora": "22:30",
-    "idSede": "bos"
+    "idSede": "bos",
+    "placeholderLocal": "2A",
+    "placeholderVisitante":"2B"
   },
   {
     "idPartido": 75,
-    "idEquipoLocal": "ned",
-    "idEquipoVisitante": "sco",
+    "idEquipoLocal": "tbd",
+    "idEquipoVisitante": "tbd",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1047,12 +1051,14 @@
     "jornada": null,
     "fecha": "30/06/26",
     "hora": "03:00",
-    "idSede": "mon"
+    "idSede": "mon",
+    "placeholderLocal": "2A",
+    "placeholderVisitante":"2B"
   },
   {
     "idPartido": 76,
-    "idEquipoLocal": "mar",
-    "idEquipoVisitante": "jpn",
+    "idEquipoLocal": "tbd",
+    "idEquipoVisitante": "tbd",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1061,12 +1067,14 @@
     "jornada": null,
     "fecha": "29/06/26",
     "hora": "19:00",
-    "idSede": "hou"
+    "idSede": "hou",
+    "placeholderLocal": "2A",
+    "placeholderVisitante":"2B"
   },
   {
     "idPartido": 77,
-    "idEquipoLocal": "fra",
-    "idEquipoVisitante": "bra",
+    "idEquipoLocal": "tbd",
+    "idEquipoVisitante": "tbd",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1075,12 +1083,14 @@
     "jornada": null,
     "fecha": "30/06/26",
     "hora": "23:00",
-    "idSede": "ny"
+    "idSede": "ny",
+    "placeholderLocal": "2A",
+    "placeholderVisitante":"2B"
   },
   {
     "idPartido": 78,
-    "idEquipoLocal": "ecu",
-    "idEquipoVisitante": "sen",
+    "idEquipoLocal": "tbd",
+    "idEquipoVisitante": "tbd",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1089,12 +1099,14 @@
     "jornada": null,
     "fecha": "30/06/26",
     "hora": "23:00",
-    "idSede": "dal"
+    "idSede": "dal",
+    "placeholderLocal": "2A",
+    "placeholderVisitante":"2B"
   },
   {
     "idPartido": 79,
-    "idEquipoLocal": "mex",
-    "idEquipoVisitante": "tun",
+    "idEquipoLocal": "tbd",
+    "idEquipoVisitante": "tbd",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1103,12 +1115,14 @@
     "jornada": null,
     "fecha": "01/07/26",
     "hora": "03:00",
-    "idSede": "mex"
+    "idSede": "mex",
+    "placeholderLocal": "2A",
+    "placeholderVisitante":"2B"
   },
   {
     "idPartido": 80,
-    "idEquipoLocal": "cro",
-    "idEquipoVisitante": "nor",
+    "idEquipoLocal": "tbd",
+    "idEquipoVisitante": "tbd",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1117,12 +1131,14 @@
     "jornada": null,
     "fecha": "01/07/26",
     "hora": "18:00",
-    "idSede": "atl"
+    "idSede": "atl",
+    "placeholderLocal": "2A",
+    "placeholderVisitante":"2B"
   },
   {
     "idPartido": 81,
-    "idEquipoLocal": "par",
-    "idEquipoVisitante": "aut",
+    "idEquipoLocal": "tbd",
+    "idEquipoVisitante": "tbd",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal": 4,
@@ -1131,12 +1147,14 @@
     "jornada": null,
     "fecha": "02/07/26",
     "hora": "02:00",
-    "idSede": "sf"
+    "idSede": "sf",
+    "placeholderLocal": "2A",
+    "placeholderVisitante":"2B"
   },
   {
     "idPartido": 82,
-    "idEquipoLocal": "bel",
-    "idEquipoVisitante": "gha",
+    "idEquipoLocal": "tbd",
+    "idEquipoVisitante": "tbd",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1145,12 +1163,14 @@
     "jornada": null,
     "fecha": "01/07/26",
     "hora": "22:00",
-    "idSede": "sea"
+    "idSede": "sea",
+    "placeholderLocal": "2A",
+    "placeholderVisitante":"2B"
   },
   {
     "idPartido": 83,
-    "idEquipoLocal": "col",
-    "idEquipoVisitante": "eng",
+    "idEquipoLocal": "tbd",
+    "idEquipoVisitante": "tbd",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1159,12 +1179,14 @@
     "jornada": null,
     "fecha": "03/07/26",
     "hora": "01:00",
-    "idSede": "tor"
+    "idSede": "tor",
+    "placeholderLocal": "2A",
+    "placeholderVisitante":"2B"
   },
   {
     "idPartido": 84,
-    "idEquipoLocal": "esp",
-    "idEquipoVisitante": "alg",
+    "idEquipoLocal": "tbd",
+    "idEquipoVisitante": "tbd",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1173,12 +1195,14 @@
     "jornada": null,
     "fecha": "02/07/26",
     "hora": "21:00",
-    "idSede": "la"
+    "idSede": "la",
+    "placeholderLocal": "2A",
+    "placeholderVisitante":"2B"
   },
   {
     "idPartido": 85,
-    "idEquipoLocal": "bih",
-    "idEquipoVisitante": "egy",
+    "idEquipoLocal": "tbd",
+    "idEquipoVisitante": "tbd",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal": null,
@@ -1187,12 +1211,14 @@
     "jornada": null,
     "fecha": "03/07/26",
     "hora": "05:00",
-    "idSede": "van"
+    "idSede": "van",
+    "placeholderLocal": "2A",
+    "placeholderVisitante":"2B"
   },
   {
     "idPartido": 86,
-    "idEquipoLocal": "arg",
-    "idEquipoVisitante": "uru",
+    "idEquipoLocal": "tbd",
+    "idEquipoVisitante": "tbd",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1201,12 +1227,14 @@
     "jornada": null,
     "fecha": "04/07/26",
     "hora": "00:00",
-    "idSede": "mia"
+    "idSede": "mia",
+    "placeholderLocal": "2A",
+    "placeholderVisitante":"2B"
   },
   {
     "idPartido": 87,
-    "idEquipoLocal": "por",
-    "idEquipoVisitante": "aus",
+    "idEquipoLocal": "tbd",
+    "idEquipoVisitante": "tbd",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1215,12 +1243,14 @@
     "jornada": null,
     "fecha": "04/07/26",
     "hora": "03:30",
-    "idSede": "kc"
+    "idSede": "kc",
+    "placeholderLocal": "2A",
+    "placeholderVisitante":"2B"
   },
   {
     "idPartido": 88,
-    "idEquipoLocal": "usa",
-    "idEquipoVisitante": "irn",
+    "idEquipoLocal": "tbd",
+    "idEquipoVisitante": "tbd",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal": null,
@@ -1229,12 +1259,14 @@
     "jornada": null,
     "fecha": "03/07/26",
     "hora": "20:00",
-    "idSede": "dal"
+    "idSede": "dal",
+    "placeholderLocal": "2A",
+    "placeholderVisitante":"2B"
   },
   {
     "idPartido": 89,
-    "idEquipoLocal": "ger",
-    "idEquipoVisitante": "fra",
+    "idEquipoLocal": "tbd",
+    "idEquipoVisitante": "tbd",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1243,12 +1275,14 @@
     "jornada": null,
     "fecha": "04/07/26",
     "hora": "23:00",
-    "idSede": "phi"
+    "idSede": "phi",
+    "placeholderLocal": "2A",
+    "placeholderVisitante":"2B"
   },
   {
     "idPartido": 90,
-    "idEquipoLocal": "sui",
-    "idEquipoVisitante": "ned",
+    "idEquipoLocal": "tbd",
+    "idEquipoVisitante": "tbd",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1257,12 +1291,14 @@
     "jornada": null,
     "fecha": "04/07/26",
     "hora": "19:00",
-    "idSede": "hou"
+    "idSede": "hou",
+    "placeholderLocal": "2A",
+    "placeholderVisitante":"2B"
   },
   {
     "idPartido": 91,
-    "idEquipoLocal": "mar",
-    "idEquipoVisitante": "sen",
+    "idEquipoLocal": "tbd",
+    "idEquipoVisitante": "tbd",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1271,12 +1307,14 @@
     "jornada": null,
     "fecha": "05/07/26",
     "hora": "22:00",
-    "idSede": "ny"
+    "idSede": "ny",
+    "placeholderLocal": "2A",
+    "placeholderVisitante":"2B"
   },
   {
     "idPartido": 92,
-    "idEquipoLocal": "mex",
-    "idEquipoVisitante": "cro",
+    "idEquipoLocal": "tbd",
+    "idEquipoVisitante": "tbd",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1285,12 +1323,14 @@
     "jornada": null,
     "fecha": "06/07/26",
     "hora": "02:00",
-    "idSede": "mex"
+    "idSede": "mex",
+    "placeholderLocal": "2A",
+    "placeholderVisitante":"2B"
   },
   {
     "idPartido": 93,
-    "idEquipoLocal": "eng",
-    "idEquipoVisitante": "esp",
+    "idEquipoLocal": "tbd",
+    "idEquipoVisitante": "tbd",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1299,12 +1339,14 @@
     "jornada": null,
     "fecha": "06/07/26",
     "hora": "21:00",
-    "idSede": "dal"
+    "idSede": "dal",
+    "placeholderLocal": "2A",
+    "placeholderVisitante":"2B"
   },
   {
     "idPartido": 94,
-    "idEquipoLocal": "aut",
-    "idEquipoVisitante": "bel",
+    "idEquipoLocal": "tbd",
+    "idEquipoVisitante": "tbd",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1313,12 +1355,14 @@
     "jornada": null,
     "fecha": "07/07/26",
     "hora": "02:00",
-    "idSede": "sea"
+    "idSede": "sea",
+    "placeholderLocal": "2A",
+    "placeholderVisitante":"2B"
   },
   {
     "idPartido": 95,
-    "idEquipoLocal": "arg",
-    "idEquipoVisitante": "irn",
+    "idEquipoLocal": "tbd",
+    "idEquipoVisitante": "tbd",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1327,12 +1371,14 @@
     "jornada": null,
     "fecha": "07/07/26",
     "hora": "18:00",
-    "idSede": "atl"
+    "idSede": "atl",
+    "placeholderLocal": "2A",
+    "placeholderVisitante":"2B"
   },
   {
     "idPartido": 96,
-    "idEquipoLocal": "bih",
-    "idEquipoVisitante": "por",
+    "idEquipoLocal": "tbd",
+    "idEquipoVisitante": "tbd",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1341,7 +1387,9 @@
     "jornada": null,
     "fecha": "07/07/26",
     "hora": "22:00",
-    "idSede": "van"
+    "idSede": "van",
+    "placeholderLocal": "2A",
+    "placeholderVisitante":"2B"
   },
   {
     "idPartido": 97,
