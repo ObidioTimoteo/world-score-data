@@ -1036,8 +1036,8 @@
     "fecha": "29/06/26",
     "hora": "22:30",
     "idSede": "bos",
-    "placeholderLocal": "2A",
-    "placeholderVisitante":"2B"
+    "placeholderLocal": "1E",
+    "placeholderVisitante":"3A/B/C/D/F"
   },
   {
     "idPartido": 75,
@@ -1052,8 +1052,8 @@
     "fecha": "30/06/26",
     "hora": "03:00",
     "idSede": "mon",
-    "placeholderLocal": "2A",
-    "placeholderVisitante":"2B"
+    "placeholderLocal": "1F",
+    "placeholderVisitante":"2C"
   },
   {
     "idPartido": 76,
@@ -1068,8 +1068,8 @@
     "fecha": "29/06/26",
     "hora": "19:00",
     "idSede": "hou",
-    "placeholderLocal": "2A",
-    "placeholderVisitante":"2B"
+    "placeholderLocal": "1C",
+    "placeholderVisitante":"3C/E/F/H/I"
   },
   {
     "idPartido": 77,
@@ -1084,8 +1084,8 @@
     "fecha": "30/06/26",
     "hora": "23:00",
     "idSede": "ny",
-    "placeholderLocal": "2A",
-    "placeholderVisitante":"2B"
+    "placeholderLocal": "1I",
+    "placeholderVisitante":"3C/D/F/G/H"
   },
   {
     "idPartido": 78,
@@ -1100,8 +1100,8 @@
     "fecha": "30/06/26",
     "hora": "23:00",
     "idSede": "dal",
-    "placeholderLocal": "2A",
-    "placeholderVisitante":"2B"
+    "placeholderLocal": "2E",
+    "placeholderVisitante":"2I"
   },
   {
     "idPartido": 79,
@@ -1116,8 +1116,8 @@
     "fecha": "01/07/26",
     "hora": "03:00",
     "idSede": "mex",
-    "placeholderLocal": "2A",
-    "placeholderVisitante":"2B"
+    "placeholderLocal": "1A",
+    "placeholderVisitante":"3C/E/F/H/I"
   },
   {
     "idPartido": 80,
@@ -1132,8 +1132,8 @@
     "fecha": "01/07/26",
     "hora": "18:00",
     "idSede": "atl",
-    "placeholderLocal": "2A",
-    "placeholderVisitante":"2B"
+    "placeholderLocal": "1L",
+    "placeholderVisitante":"3E/H/I/J/K"
   },
   {
     "idPartido": 81,
@@ -1148,8 +1148,8 @@
     "fecha": "02/07/26",
     "hora": "02:00",
     "idSede": "sf",
-    "placeholderLocal": "2A",
-    "placeholderVisitante":"2B"
+    "placeholderLocal": "1D",
+    "placeholderVisitante":"3B/E/F/I/J"
   },
   {
     "idPartido": 82,
@@ -1164,8 +1164,8 @@
     "fecha": "01/07/26",
     "hora": "22:00",
     "idSede": "sea",
-    "placeholderLocal": "2A",
-    "placeholderVisitante":"2B"
+    "placeholderLocal": "1G",
+    "placeholderVisitante":"3A/E/H/I/J"
   },
   {
     "idPartido": 83,
@@ -1180,8 +1180,8 @@
     "fecha": "03/07/26",
     "hora": "01:00",
     "idSede": "tor",
-    "placeholderLocal": "2A",
-    "placeholderVisitante":"2B"
+    "placeholderLocal": "2K",
+    "placeholderVisitante":"2L"
   },
   {
     "idPartido": 84,
@@ -1196,8 +1196,8 @@
     "fecha": "02/07/26",
     "hora": "21:00",
     "idSede": "la",
-    "placeholderLocal": "2A",
-    "placeholderVisitante":"2B"
+    "placeholderLocal": "1H",
+    "placeholderVisitante":"2J"
   },
   {
     "idPartido": 85,
@@ -1212,8 +1212,8 @@
     "fecha": "03/07/26",
     "hora": "05:00",
     "idSede": "van",
-    "placeholderLocal": "2A",
-    "placeholderVisitante":"2B"
+    "placeholderLocal": "1B",
+    "placeholderVisitante":"3E/F/G/I/J"
   },
   {
     "idPartido": 86,
@@ -1228,8 +1228,8 @@
     "fecha": "04/07/26",
     "hora": "00:00",
     "idSede": "mia",
-    "placeholderLocal": "2A",
-    "placeholderVisitante":"2B"
+    "placeholderLocal": "1J",
+    "placeholderVisitante":"2H"
   },
   {
     "idPartido": 87,
@@ -1244,8 +1244,8 @@
     "fecha": "04/07/26",
     "hora": "03:30",
     "idSede": "kc",
-    "placeholderLocal": "2A",
-    "placeholderVisitante":"2B"
+    "placeholderLocal": "1K",
+    "placeholderVisitante":"3D/E/I/J/L"
   },
   {
     "idPartido": 88,
@@ -1260,8 +1260,8 @@
     "fecha": "03/07/26",
     "hora": "20:00",
     "idSede": "dal",
-    "placeholderLocal": "2A",
-    "placeholderVisitante":"2B"
+    "placeholderLocal": "2D",
+    "placeholderVisitante":"2G"
   },
   {
     "idPartido": 89,
@@ -1276,8 +1276,8 @@
     "fecha": "04/07/26",
     "hora": "23:00",
     "idSede": "phi",
-    "placeholderLocal": "2A",
-    "placeholderVisitante":"2B"
+    "placeholderLocal": "w74",
+    "placeholderVisitante":"w77"
   },
   {
     "idPartido": 90,
@@ -1292,8 +1292,8 @@
     "fecha": "04/07/26",
     "hora": "19:00",
     "idSede": "hou",
-    "placeholderLocal": "2A",
-    "placeholderVisitante":"2B"
+    "placeholderLocal": "w73",
+    "placeholderVisitante":"w75"
   },
   {
     "idPartido": 91,
@@ -1308,8 +1308,8 @@
     "fecha": "05/07/26",
     "hora": "22:00",
     "idSede": "ny",
-    "placeholderLocal": "2A",
-    "placeholderVisitante":"2B"
+    "placeholderLocal": "w76",
+    "placeholderVisitante":"w78"
   },
   {
     "idPartido": 92,
@@ -1324,8 +1324,8 @@
     "fecha": "06/07/26",
     "hora": "02:00",
     "idSede": "mex",
-    "placeholderLocal": "2A",
-    "placeholderVisitante":"2B"
+    "placeholderLocal": "w79",
+    "placeholderVisitante":"w80"
   },
   {
     "idPartido": 93,
@@ -1340,8 +1340,8 @@
     "fecha": "06/07/26",
     "hora": "21:00",
     "idSede": "dal",
-    "placeholderLocal": "2A",
-    "placeholderVisitante":"2B"
+    "placeholderLocal": "w83",
+    "placeholderVisitante":"w84"
   },
   {
     "idPartido": 94,
@@ -1356,8 +1356,8 @@
     "fecha": "07/07/26",
     "hora": "02:00",
     "idSede": "sea",
-    "placeholderLocal": "2A",
-    "placeholderVisitante":"2B"
+    "placeholderLocal": "w81",
+    "placeholderVisitante":"w82"
   },
   {
     "idPartido": 95,
@@ -1372,8 +1372,8 @@
     "fecha": "07/07/26",
     "hora": "18:00",
     "idSede": "atl",
-    "placeholderLocal": "2A",
-    "placeholderVisitante":"2B"
+    "placeholderLocal": "w86",
+    "placeholderVisitante":"w88"
   },
   {
     "idPartido": 96,
@@ -1388,8 +1388,8 @@
     "fecha": "07/07/26",
     "hora": "22:00",
     "idSede": "van",
-    "placeholderLocal": "2A",
-    "placeholderVisitante":"2B"
+    "placeholderLocal": "w85",
+    "placeholderVisitante":"w87"
   },
   {
     "idPartido": 97,
@@ -1404,8 +1404,8 @@
     "fecha": "09/07/26",
     "hora": "22:00",
     "idSede": "bos",
-    "placeholderLocal": "1-r8",
-    "placeholderVisitante": "2-r8"
+    "placeholderLocal": "w89",
+    "placeholderVisitante": "w90"
   },
   {
     "idPartido": 98,
@@ -1420,8 +1420,8 @@
     "fecha": "10/07/26",
     "hora": "21:00",
     "idSede": "la",
-    "placeholderLocal": "5-r8",
-    "placeholderVisitante": "6-r8"
+    "placeholderLocal": "w93",
+    "placeholderVisitante": "w94"
   },
   {
     "idPartido": 99,
@@ -1436,8 +1436,8 @@
     "fecha": "11/07/26",
     "hora": "23:00",
     "idSede": "mia",
-    "placeholderLocal": "3-r8",
-    "placeholderVisitante": "4-r8"
+    "placeholderLocal": "w91",
+    "placeholderVisitante": "w92"
   },
   {
     "idPartido": 100,
@@ -1452,8 +1452,8 @@
     "fecha": "12/07/26",
     "hora": "03:00",
     "idSede": "kc",
-    "placeholderLocal": "7-r8",
-    "placeholderVisitante": "8-r8"
+    "placeholderLocal": "w95",
+    "placeholderVisitante": "w96"
   },
   {
     "idPartido": 101,
@@ -1468,8 +1468,8 @@
     "fecha": "14/07/26",
     "hora": "21:00",
     "idSede": "dal",
-    "placeholderLocal": "1-r4",
-    "placeholderVisitante": "3-r4"
+    "placeholderLocal": "w97",
+    "placeholderVisitante": "w98"
   },
   {
     "idPartido": 102,
@@ -1484,8 +1484,8 @@
     "fecha": "15/07/26",
     "hora": "21:00",
     "idSede": "atl",
-    "placeholderLocal": "2-r4",
-    "placeholderVisitante": "3-r4"
+    "placeholderLocal": "w99",
+    "placeholderVisitante": "w100"
   },
   {
     "idPartido": 103,
@@ -1500,8 +1500,8 @@
     "fecha": "18/07/26",
     "hora": "23:00",
     "idSede": "mia",
-    "placeholderLocal": "1-sf",
-    "placeholderVisitante": "2-sf"
+    "placeholderLocal": "l101",
+    "placeholderVisitante": "l102"
   },
   {
     "idPartido": 104,
@@ -1516,7 +1516,7 @@
     "fecha": "19/07/26",
     "hora": "21:00",
     "idSede": "ny",
-    "placeholderLocal": "1-sf",
-    "placeholderVisitante": "2-sf"
+    "placeholderLocal": "w101",
+    "placeholderVisitante": "w102"
   }
 ]
