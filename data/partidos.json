@@ -1052,7 +1052,7 @@
   {
     "idPartido": 76,
     "idEquipoLocal": "bra",
-    "idEquipoVisitante": "jap",
+    "idEquipoVisitante": "jpn",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1075,7 +1075,7 @@
     "jornada": null,
     "fecha": "30/06/26",
     "hora": "23:00",
-    "idSede": "ny"
+    "idSede": "ny",
     "placeholderVisitante":"3C/D/F/G/H"
   },
   {
@@ -1104,7 +1104,7 @@
     "jornada": null,
     "fecha": "01/07/26",
     "hora": "03:00",
-    "idSede": "mex"
+    "idSede": "mex",
     "placeholderVisitante":"3C/E/F/H/I"
   },
   {
@@ -1149,7 +1149,7 @@
     "jornada": null,
     "fecha": "01/07/26",
     "hora": "22:00",
-    "idSede": "sea"
+    "idSede": "sea",
     "placeholderVisitante":"3A/E/H/I/J"
   },
   {
@@ -1180,7 +1180,7 @@
     "jornada": null,
     "fecha": "02/07/26",
     "hora": "21:00",
-    "idSede": "la"
+    "idSede": "la",
     "placeholderVisitante":"2J"
   },
   {
@@ -1195,7 +1195,7 @@
     "jornada": null,
     "fecha": "03/07/26",
     "hora": "05:00",
-    "idSede": "van"
+    "idSede": "van",
     "placeholderVisitante":"3E/F/G/I/J"
   },
   {
