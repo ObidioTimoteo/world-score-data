@@ -1019,9 +1019,7 @@
     "jornada": null,
     "fecha": "28/06/26",
     "hora": "21:00",
-    "idSede": "la",
-    "placeholderLocal": "2A",
-    "placeholderVisitante":"2B"
+    "idSede": "la"
   },
   {
     "idPartido": 74,
@@ -1035,9 +1033,7 @@
     "jornada": null,
     "fecha": "29/06/26",
     "hora": "22:30",
-    "idSede": "bos",
-    "placeholderLocal": "1E",
-    "placeholderVisitante":"3A/B/C/D/F"
+    "idSede": "bos"
   },
   {
     "idPartido": 75,
@@ -1051,9 +1047,7 @@
     "jornada": null,
     "fecha": "30/06/26",
     "hora": "03:00",
-    "idSede": "mon",
-    "placeholderLocal": "1F",
-    "placeholderVisitante":"2C"
+    "idSede": "mon"
   },
   {
     "idPartido": 76,
@@ -1067,9 +1061,7 @@
     "jornada": null,
     "fecha": "29/06/26",
     "hora": "19:00",
-    "idSede": "hou",
-    "placeholderLocal": "1C",
-    "placeholderVisitante":"3C/E/F/H/I"
+    "idSede": "hou"
   },
   {
     "idPartido": 77,
@@ -1083,8 +1075,7 @@
     "jornada": null,
     "fecha": "30/06/26",
     "hora": "23:00",
-    "idSede": "ny",
-    "placeholderLocal": "1I",
+    "idSede": "ny"
     "placeholderVisitante":"3C/D/F/G/H"
   },
   {
@@ -1099,9 +1090,7 @@
     "jornada": null,
     "fecha": "30/06/26",
     "hora": "23:00",
-    "idSede": "dal",
-    "placeholderLocal": "2E",
-    "placeholderVisitante":"2I"
+    "idSede": "dal"
   },
   {
     "idPartido": 79,
@@ -1115,8 +1104,7 @@
     "jornada": null,
     "fecha": "01/07/26",
     "hora": "03:00",
-    "idSede": "mex",
-    "placeholderLocal": "1A",
+    "idSede": "mex"
     "placeholderVisitante":"3C/E/F/H/I"
   },
   {
@@ -1147,9 +1135,7 @@
     "jornada": null,
     "fecha": "02/07/26",
     "hora": "02:00",
-    "idSede": "sf",
-    "placeholderLocal": "1D",
-    "placeholderVisitante":"3B/E/F/I/J"
+    "idSede": "sf"
   },
   {
     "idPartido": 82,
@@ -1163,8 +1149,7 @@
     "jornada": null,
     "fecha": "01/07/26",
     "hora": "22:00",
-    "idSede": "sea",
-    "placeholderLocal": "1G",
+    "idSede": "sea"
     "placeholderVisitante":"3A/E/H/I/J"
   },
   {
@@ -1195,8 +1180,7 @@
     "jornada": null,
     "fecha": "02/07/26",
     "hora": "21:00",
-    "idSede": "la",
-    "placeholderLocal": "1H",
+    "idSede": "la"
     "placeholderVisitante":"2J"
   },
   {
@@ -1211,8 +1195,7 @@
     "jornada": null,
     "fecha": "03/07/26",
     "hora": "05:00",
-    "idSede": "van",
-    "placeholderLocal": "1B",
+    "idSede": "van"
     "placeholderVisitante":"3E/F/G/I/J"
   },
   {
@@ -1227,9 +1210,7 @@
     "jornada": null,
     "fecha": "04/07/26",
     "hora": "00:00",
-    "idSede": "mia",
-    "placeholderLocal": "1J",
-    "placeholderVisitante":"2H"
+    "idSede": "mia"
   },
   {
     "idPartido": 87,
@@ -1259,9 +1240,7 @@
     "jornada": null,
     "fecha": "03/07/26",
     "hora": "20:00",
-    "idSede": "dal",
-    "placeholderLocal": "2D",
-    "placeholderVisitante":"2G"
+    "idSede": "dal"
   },
   {
     "idPartido": 89,
