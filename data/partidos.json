@@ -1066,7 +1066,7 @@
   {
     "idPartido": 77,
     "idEquipoLocal": "fra",
-    "idEquipoVisitante": "tbd",
+    "idEquipoVisitante": "swe",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1095,7 +1095,7 @@
   {
     "idPartido": 79,
     "idEquipoLocal": "mex",
-    "idEquipoVisitante": "tbd",
+    "idEquipoVisitante": "ecu",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
