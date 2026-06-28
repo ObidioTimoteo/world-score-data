@@ -1109,8 +1109,8 @@
   },
   {
     "idPartido": 80,
-    "idEquipoLocal": "tbd",
-    "idEquipoVisitante": "tbd",
+    "idEquipoLocal": "eng",
+    "idEquipoVisitante": "cod",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1140,7 +1140,7 @@
   {
     "idPartido": 82,
     "idEquipoLocal": "bel",
-    "idEquipoVisitante": "tbd",
+    "idEquipoVisitante": "sen",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1154,8 +1154,8 @@
   },
   {
     "idPartido": 83,
-    "idEquipoLocal": "tbd",
-    "idEquipoVisitante": "tbd",
+    "idEquipoLocal": "por",
+    "idEquipoVisitante": "cro",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1171,7 +1171,7 @@
   {
     "idPartido": 84,
     "idEquipoLocal": "esp",
-    "idEquipoVisitante": "tbd",
+    "idEquipoVisitante": "aut",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1186,7 +1186,7 @@
   {
     "idPartido": 85,
     "idEquipoLocal": "sui",
-    "idEquipoVisitante": "tbd",
+    "idEquipoVisitante": "alg",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal": null,
@@ -1214,8 +1214,8 @@
   },
   {
     "idPartido": 87,
-    "idEquipoLocal": "tbd",
-    "idEquipoVisitante": "tbd",
+    "idEquipoLocal": "col",
+    "idEquipoVisitante": "gha",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
