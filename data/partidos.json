@@ -1244,8 +1244,8 @@
   },
   {
     "idPartido": 89,
-    "idEquipoLocal": "tbd",
-    "idEquipoVisitante": "tbd",
+    "idEquipoLocal": "par",
+    "idEquipoVisitante": "fra",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1260,8 +1260,8 @@
   },
   {
     "idPartido": 90,
-    "idEquipoLocal": "tbd",
-    "idEquipoVisitante": "tbd",
+    "idEquipoLocal": "can",
+    "idEquipoVisitante": "mar",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1276,8 +1276,8 @@
   },
   {
     "idPartido": 91,
-    "idEquipoLocal": "tbd",
-    "idEquipoVisitante": "tbd",
+    "idEquipoLocal": "bra",
+    "idEquipoVisitante": "nor",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1292,8 +1292,8 @@
   },
   {
     "idPartido": 92,
-    "idEquipoLocal": "tbd",
-    "idEquipoVisitante": "tbd",
+    "idEquipoLocal": "mex",
+    "idEquipoVisitante": "eng",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1308,8 +1308,8 @@
   },
   {
     "idPartido": 93,
-    "idEquipoLocal": "tbd",
-    "idEquipoVisitante": "tbd",
+    "idEquipoLocal": "por",
+    "idEquipoVisitante": "esp",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1324,8 +1324,8 @@
   },
   {
     "idPartido": 94,
-    "idEquipoLocal": "tbd",
-    "idEquipoVisitante": "tbd",
+    "idEquipoLocal": "usa",
+    "idEquipoVisitante": "bel",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1340,8 +1340,8 @@
   },
   {
     "idPartido": 95,
-    "idEquipoLocal": "tbd",
-    "idEquipoVisitante": "tbd",
+    "idEquipoLocal": "arg",
+    "idEquipoVisitante": "egy",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1356,8 +1356,8 @@
   },
   {
     "idPartido": 96,
-    "idEquipoLocal": "tbd",
-    "idEquipoVisitante": "tbd",
+    "idEquipoLocal": "sui",
+    "idEquipoVisitante": "col",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1383,8 +1383,8 @@
     "fecha": "09/07/26",
     "hora": "22:00",
     "idSede": "bos",
-    "placeholderLocal": "w89",
-    "placeholderVisitante": "w90"
+    "placeholderLocal": "par/fra",
+    "placeholderVisitante": "can/mar"
   },
   {
     "idPartido": 98,
@@ -1399,8 +1399,8 @@
     "fecha": "10/07/26",
     "hora": "21:00",
     "idSede": "la",
-    "placeholderLocal": "w93",
-    "placeholderVisitante": "w94"
+    "placeholderLocal": "por/esp",
+    "placeholderVisitante": "usa/bel"
   },
   {
     "idPartido": 99,
@@ -1415,8 +1415,8 @@
     "fecha": "11/07/26",
     "hora": "23:00",
     "idSede": "mia",
-    "placeholderLocal": "w91",
-    "placeholderVisitante": "w92"
+    "placeholderLocal": "bra/nor",
+    "placeholderVisitante": "mex/eng"
   },
   {
     "idPartido": 100,
@@ -1431,8 +1431,8 @@
     "fecha": "12/07/26",
     "hora": "03:00",
     "idSede": "kc",
-    "placeholderLocal": "w95",
-    "placeholderVisitante": "w96"
+    "placeholderLocal": "arg/egy",
+    "placeholderVisitante": "sui/col"
   },
   {
     "idPartido": 101,
