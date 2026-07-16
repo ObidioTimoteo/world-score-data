@@ -1454,8 +1454,8 @@
     "idPartido": 102,
     "idEquipoLocal": "eng",
     "idEquipoVisitante": "arg",
-    "golesLocal": null,
-    "golesVisitante": null,
+    "golesLocal": 1,
+    "golesVisitante": 2,
     "penaltisLocal":null,
     "penaltisVisitante":null,
     "idFase": "sf",
@@ -1469,7 +1469,7 @@
   {
     "idPartido": 103,
     "idEquipoLocal": "fra",
-    "idEquipoVisitante": "tbd",
+    "idEquipoVisitante": "eng",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
@@ -1485,7 +1485,7 @@
   {
     "idPartido": 104,
     "idEquipoLocal": "esp",
-    "idEquipoVisitante": "tbd",
+    "idEquipoVisitante": "arg",
     "golesLocal": null,
     "golesVisitante": null,
     "penaltisLocal":null,
