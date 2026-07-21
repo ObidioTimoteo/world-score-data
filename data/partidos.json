@@ -1509,8 +1509,8 @@
     "idFase": "final",
     "jornada": null,
     "fecha": "19/07/26",
-    "hora": null,
-    "idSede": null,
+    "hora": "21:00",
+    "idSede": "ny",
     "placeholderLocal": "ESPAÑA",
     "placeholderVisitante": "CAMPEÓN"
   }
