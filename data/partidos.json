@@ -1497,5 +1497,21 @@
     "idSede": "ny",
     "placeholderLocal": "w101",
     "placeholderVisitante": "w102"
+  },
+  {
+    "idPartido": 105,
+    "idEquipoLocal": "tbd",
+    "idEquipoVisitante": "tbd",
+    "golesLocal": null,
+    "golesVisitante": null,
+    "penaltisLocal":null,
+    "penaltisVisitante":null,
+    "idFase": null,
+    "jornada": null,
+    "fecha": null,
+    "hora": null,
+    "idSede": null,
+    "placeholderLocal": "ESPAÑA",
+    "placeholderVisitante": "CAMPEÓN"
   }
 ]
